@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyDia.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boyfriend Angry0000" x="0" y="0" width="398" height="311"/>
+	<SubTexture name="Boyfriend Angry0001" x="0" y="0" width="398" height="311"/>
+	<SubTexture name="Boyfriend Angry0002" x="0" y="0" width="398" height="311"/>
+	<SubTexture name="Boyfriend Angry0003" x="0" y="0" width="398" height="311"/>
+	<SubTexture name="Boyfriend Confused0000" x="418" y="0" width="386" height="311"/>
+	<SubTexture name="Boyfriend Confused0001" x="418" y="0" width="386" height="311"/>
+	<SubTexture name="Boyfriend Confused0002" x="418" y="0" width="386" height="311"/>
+	<SubTexture name="Boyfriend Confused0003" x="418" y="0" width="386" height="311"/>
+	<SubTexture name="Boyfriend Normal0000" x="0" y="331" width="408" height="311"/>
+	<SubTexture name="Boyfriend Normal0001" x="0" y="331" width="408" height="311"/>
+	<SubTexture name="Boyfriend Normal0002" x="0" y="331" width="408" height="311"/>
+	<SubTexture name="Boyfriend Normal0003" x="0" y="331" width="408" height="311"/>
+	<SubTexture name="Boyfriend Sing0000" x="428" y="331" width="369" height="340"/>
+	<SubTexture name="Boyfriend Sing0001" x="428" y="331" width="369" height="340"/>
+	<SubTexture name="Boyfriend Sing0002" x="428" y="331" width="369" height="340"/>
+	<SubTexture name="Boyfriend Sing0003" x="428" y="331" width="369" height="340"/>
+</TextureAtlas>

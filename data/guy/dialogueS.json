@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guydia",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "HEY!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boydia",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guyDia",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "You little faggot!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guyDia",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "You made me lose my job!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boydia",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guyDia",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "your battle with that tank dude caused everyone to leave me!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boydia",
+			"boxState": "normal",
+			"expression": "sing",
+			"text": "bap!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guyDia",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "oh yeah sure i will rap you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guyDia",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "im actually not that good..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guyDia",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "i was just salty"
+		}
+	]
+}
