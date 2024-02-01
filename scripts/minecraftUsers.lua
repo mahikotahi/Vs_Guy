@@ -19,3 +19,15 @@ function onCreate()
         addLuaText("rgtext")
     end
 end
+
+function onUpdate(elapsed)
+    if songName == 'God-Guy-wade' and curStep >= 57525 then
+        addLuaText("bftext")
+        addLuaText("rgtext")
+    end
+    if songName == 'God-Guy-wade' and curStep >= 76800 then
+        removeLuaText("bftext", true)
+        removeLuaText("rgtext", true)
+        --addLuaText("rgtext")
+    end
+end

@@ -4,7 +4,7 @@
 		"player2": "godguy-wademix",
 		"events": [
 			[
-				57525,
+				57600,
 				[
 					[
 						"Change Character",
@@ -24,7 +24,7 @@
 				]
 			],
 			[
-				57675,
+				57600,
 				[
 					[
 						"Set Property",
@@ -34,7 +34,7 @@
 				]
 			],
 			[
-				76725,
+				76800,
 				[
 					[
 						"Change Character",
@@ -54,7 +54,7 @@
 				]
 			],
 			[
-				76875,
+				76800,
 				[
 					[
 						"Set Property",

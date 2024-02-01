@@ -64,3 +64,4 @@ V3.0 - 3/1/2024
 - Updated Wade Week (You have to unlock it now)
 - Updated Mod Pack Title
 - Replaced Silly Dialogue with Lore Dialogue
+- Added Minecraft Usernames to Waste, Waste-wade, and God-Guy-wade's Waste Section
