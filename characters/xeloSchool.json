@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-160,
+				-350
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "MLP School Idle"
+		},
+		{
+			"offsets": [
+				-130,
+				-350
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MLP School Left"
+		},
+		{
+			"offsets": [
+				-164,
+				-349
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MLP School Down"
+		},
+		{
+			"offsets": [
+				-94,
+				-350
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MLP School Up"
+		},
+		{
+			"offsets": [
+				-152,
+				-352
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MLP School Right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/xelocortela_school",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "xelo",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}

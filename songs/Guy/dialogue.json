@@ -1,0 +1,324 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "girlfriend"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "crush this guys balls"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ight' bet"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "*ball crushing*"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "guy",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "if i had a crying emotion i would cry right now you stupid fucking child i swear to god im going to expose your location and then ruin your fucking life and than make sure everyshjfbuahsdukahsudhjiasdjuiasjdijasduhiasdhuiasdiuashdiuahsdhuiasdhiuahsidhiashdi"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "didnt ask"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "*vine boom*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "L + ratio!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "*vine boom*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "you should kill yourself NOW"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "but cool"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "isn't it already cool?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im a demon"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "dont question me faggot"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "how are yall in a relationship"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how are you so god damn bald?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "now me personally"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what is your generation?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what year were you born?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "concept or lore birth?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lore birth"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "WAIT"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Is matpat listening?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thats not fucking funny."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah man,"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "just because he is leaving in 2 months or less doesn't mean we can make jokes like that you fucking 3d bitch idiot"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "anyway"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i was born 1990"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok so can we rap now?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "oh yeah i completely forgot about that"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "your balls are next"
+		}
+	]
+}

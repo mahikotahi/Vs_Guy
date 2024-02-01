@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GodGuy.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Down0000" x="280" y="372" width="260" height="367" frameX="-412" frameY="-89" frameWidth="900" frameHeight="486"/>
+	<SubTexture name="Up0000" x="0" y="372" width="280" height="452" frameX="-411" frameY="-4" frameWidth="900" frameHeight="486"/>
+	<SubTexture name="Right0000" x="0" y="0" width="526" height="372" frameX="-287" frameY="-89" frameWidth="900" frameHeight="486"/>
+	<SubTexture name="Left0000" x="526" y="0" width="540" height="353" frameX="-165" frameY="-138" frameWidth="900" frameHeight="486"/>
+	<SubTexture name="idle0000" x="1066" y="0" width="206" height="446" frameX="-430" frameY="-46" frameWidth="900" frameHeight="486"/>
+</TextureAtlas>

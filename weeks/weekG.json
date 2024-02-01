@@ -1,0 +1,50 @@
+{
+	"storyName": "guys look! !its guy!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"guy",
+		"gf",
+		"bf"
+	],
+	"songs": [
+		[
+			"Guy",
+			"guynew",
+			[
+				0,
+				153,
+				253
+			]
+		],
+		[
+			"Waste",
+			"redguy",
+			[
+				206,
+				40,
+				40
+			]
+		],
+		[
+			"God Guy",
+			"godguynew",
+			[
+				20,
+				253,
+				55
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "guy",
+	"hiddenUntilUnlocked": false
+}

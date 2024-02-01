@@ -1,0 +1,50 @@
+{
+	"storyName": "guys its wade guy",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "guy",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"redguy",
+		"gf",
+		"bf"
+	],
+	"songs": [
+		[
+			"Guy-wade",
+			"guynew",
+			[
+				0,
+				173,
+				235
+			]
+		],
+		[
+			"Waste-wade",
+			"redguy",
+			[
+				226,
+				60,
+				80
+			]
+		],
+		[
+			"God Guy-wade",
+			"godguynew",
+			[
+				20,
+				233,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "wade",
+	"hiddenUntilUnlocked": false
+}

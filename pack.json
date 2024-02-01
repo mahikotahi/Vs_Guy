@@ -1,0 +1,9 @@
+{
+	"name": "FNF vs Guy V3",
+	"description": "omg guys its guy!",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [0, 255, 255],
+	"discordRPC": "1202049927601979412",
+	"iconFramerate": 10
+}

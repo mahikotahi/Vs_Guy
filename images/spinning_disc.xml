@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spinning_disc.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spinTeamDisc0000" x="10" y="10" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0001" x="177" y="10" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0002" x="344" y="10" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0003" x="511" y="10" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0004" x="678" y="10" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0005" x="845" y="10" width="147" height="63" frameX="-3" frameY="0" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0006" x="10" y="93" width="147" height="63" frameX="-3" frameY="0" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0007" x="177" y="93" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0008" x="344" y="93" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0009" x="511" y="93" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0010" x="678" y="93" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0011" x="845" y="93" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0012" x="10" y="176" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0013" x="177" y="176" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0014" x="344" y="176" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0015" x="511" y="176" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0016" x="678" y="176" width="149" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0017" x="847" y="176" width="150" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0018" x="10" y="258" width="150" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0019" x="180" y="258" width="149" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0020" x="349" y="258" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0021" x="516" y="258" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0022" x="683" y="258" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0023" x="850" y="258" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0024" x="10" y="340" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0025" x="177" y="340" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0026" x="344" y="340" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0027" x="511" y="340" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0028" x="678" y="340" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0029" x="845" y="340" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0030" x="10" y="422" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0031" x="177" y="422" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0032" x="344" y="422" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0033" x="511" y="422" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0034" x="678" y="422" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0035" x="845" y="422" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0036" x="10" y="504" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0037" x="177" y="504" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0038" x="344" y="504" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0039" x="511" y="504" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0040" x="678" y="504" width="148" height="62" frameX="-2" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0041" x="846" y="504" width="150" height="62" frameX="0" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0042" x="10" y="586" width="150" height="62" frameX="0" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0043" x="180" y="586" width="148" height="62" frameX="-2" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0044" x="348" y="586" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0045" x="515" y="586" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0046" x="682" y="586" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+	<SubTexture name="spinTeamDisc0047" x="849" y="586" width="147" height="62" frameX="-3" frameY="-1" frameWidth="153" frameHeight="63"/>
+</TextureAtlas>

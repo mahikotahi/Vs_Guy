@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "after testicle surgery i am back and im feddy to bug someone"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redguy",
+			"boxState": "normal",
+			"expression": "Oki",
+			"text": "hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii freeeeeeeeeeeeeeeeennnnnnnnnnnnnnnnnn[p"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what crack are you on?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "none"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what the fuck"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redguy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im not under the influence of crack"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redguy",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "im just naturally weard"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redguy",
+			"boxState": "normal",
+			"expression": "Influence",
+			"text": "crackswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay what the fu-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redguy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap"
+		}
+	]
+}

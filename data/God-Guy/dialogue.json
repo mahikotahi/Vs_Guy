@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bro you just ate the nether and you ate the red square dude"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "godguy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh your one of those silent opponents,"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "well now i hate you for no reason"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "anyway its rap time"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "godguy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		}
+	]
+}

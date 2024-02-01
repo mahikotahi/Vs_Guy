@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RedGuy_WadeMix.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Down0000" x="1691" y="0" width="612" height="450" frameX="-599" frameY="-184" frameWidth="1527" frameHeight="825"/>
+	<SubTexture name="Up0000" x="868" y="0" width="424" height="845" frameX="-520" frameY="10" frameWidth="1527" frameHeight="825"/>
+	<SubTexture name="Right0000" x="0" y="0" width="868" height="642" frameX="-446" frameY="-122" frameWidth="1527" frameHeight="825"/>
+	<SubTexture name="Left0000" x="0" y="642" width="644" height="699" frameX="-213" frameY="-79" frameWidth="1527" frameHeight="825"/>
+	<SubTexture name="Idle0000" x="1292" y="0" width="399" height="708" frameX="-517" frameY="-54" frameWidth="1527" frameHeight="859"/>
+</TextureAtlas>

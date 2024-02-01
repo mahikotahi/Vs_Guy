@@ -1,0 +1,64 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": true,
+	"scale": 1.25,
+	"image": "Guy_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Guy_ Idle",
+			"idle_name": "Guy_ Idle"
+		},
+		{
+			"loop_offsets": [
+				-60,
+				50
+			],
+			"anim": "mad",
+			"idle_offsets": [
+				-60,
+				50
+			],
+			"loop_name": "Guy_ Mad",
+			"idle_name": "Guy_ Mad"
+		},
+		{
+			"loop_offsets": [
+				-65,
+				42
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-65,
+				42
+			],
+			"loop_name": "Guy_ Confused",
+			"idle_name": "Guy_ Confused"
+		},
+		{
+			"loop_name": "Guy_ Cry",
+			"idle_offsets": [
+				-90,
+				30
+			],
+			"idle_name": "Guy_ Cry",
+			"anim": "cry",
+			"loop_offsets": [
+				-90,
+				30
+			]
+		}
+	]
+}

@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				180,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RedGuy_ Idle"
+		},
+		{
+			"offsets": [
+				240,
+				-30
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RedGuy_ Left"
+		},
+		{
+			"offsets": [
+				250,
+				-30
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RedGuy_ Down"
+		},
+		{
+			"offsets": [
+				380,
+				50
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RedGuy_ Up"
+		},
+		{
+			"offsets": [
+				320,
+				-40
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RedGuy_ Right"
+		},
+		{
+			"offsets": [
+				180,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drink",
+			"indices": [],
+			"name": "RedGuy_ DrinkBeer"
+		},
+		{
+			"offsets": [
+				180,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "beer",
+			"indices": [],
+			"name": "RedGuy_ Beer"
+		}
+	],
+	"vocals_file": "redguy",
+	"no_antialiasing": true,
+	"image": "characters/Red_Guy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "redguy",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		51,
+		51
+	],
+	"camera_position": [
+		-160,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

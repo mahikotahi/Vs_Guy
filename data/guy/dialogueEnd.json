@@ -1,0 +1,212 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "sooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cry",
+			"text": "SHUTUPMAN",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "cry",
+			"text": "I CANT BELIEVE YOU BEET ME",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "talk",
+			"text": "i thought you couldnt cry",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "i have no fucking idea",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "talk",
+			"text": "why do you not have limbs?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cry",
+			"text": "if i knew i would tell",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "talk",
+			"text": "BALL CRUSHING",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "OH SHIT NO",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cry",
+			"text": "NO",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "shocked",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "cry",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "talk",
+			"text": "can i say the n word?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "no",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "we are white",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "i dont have a ethnicity identity",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "talk",
+			"text": "no",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "ikr",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "talk",
+			"text": "like how would people know your trans? how would people know your gay or not?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "talk",
+			"text": "the world is a weird place",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "so will i see you in the next song?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "talk",
+			"text": "probably",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "bye",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "guy"
+		},
+		{
+			"expression": "talk",
+			"text": "bye",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "demon",
+			"text": "BALL CRUSHING",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "gf"
+		},
+		{
+			"expression": "demon",
+			"text": "I WILL CRUSH BOTH OF YOUR BALLS",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "gf"
+		}
+	]
+}

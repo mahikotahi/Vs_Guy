@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				19714.2857142857,
+				[
+					[
+						"Play Animation",
+						"drink",
+						"Dad"
+					]
+				]
+			],
+			[
+				19821.4285714286,
+				[
+					[
+						"Play Animation",
+						"drink",
+						"Dad"
+					]
+				]
+			],
+			[
+				19928.5714285714,
+				[
+					[
+						"Play Animation",
+						"drink",
+						"Dad"
+					]
+				]
+			],
+			[
+				20035.7142857143,
+				[
+					[
+						"Play Animation",
+						"beer",
+						"Dad"
+					]
+				]
+			],
+			[
+				20142.8571428571,
+				[
+					[
+						"Play Animation",
+						"beer",
+						"Dad"
+					]
+				]
+			],
+			[
+				20250,
+				[
+					[
+						"Play Animation",
+						"beer",
+						"Dad"
+					]
+				]
+			],
+			[
+				20357.1428571429,
+				[
+					[
+						"Play Animation",
+						"beer",
+						"Dad"
+					]
+				]
+			],
+			[
+				20464.2857142857,
+				[
+					[
+						"Play Animation",
+						"beer",
+						"Dad"
+					]
+				]
+			],
+			[
+				33642.8571428571,
+				[
+					[
+						"Play Animation",
+						"drink",
+						"Dad"
+					]
+				]
+			]
+		]
+	}
+}

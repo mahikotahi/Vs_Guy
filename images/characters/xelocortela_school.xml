@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xelocortela_school.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MLP School Down0000" x="10" y="10" width="102" height="186" frameX="-10" frameY="-10" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0001" x="10" y="10" width="102" height="186" frameX="-10" frameY="-10" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0002" x="132" y="10" width="100" height="192" frameX="-6" frameY="-5" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0003" x="132" y="10" width="100" height="192" frameX="-6" frameY="-5" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0004" x="252" y="10" width="101" height="199" frameX="0" frameY="0" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0005" x="252" y="10" width="101" height="199" frameX="0" frameY="0" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0006" x="252" y="10" width="101" height="199" frameX="0" frameY="0" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0007" x="252" y="10" width="101" height="199" frameX="0" frameY="0" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0008" x="252" y="10" width="101" height="199" frameX="0" frameY="0" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0009" x="252" y="10" width="101" height="199" frameX="0" frameY="0" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0010" x="252" y="10" width="101" height="199" frameX="0" frameY="0" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Down0011" x="252" y="10" width="101" height="199" frameX="0" frameY="0" frameWidth="112" frameHeight="199"/>
+	<SubTexture name="MLP School Idle0000" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0001" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0002" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0003" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0004" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0005" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0006" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0007" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0008" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0009" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0010" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Idle0011" x="373" y="10" width="101" height="199"/>
+	<SubTexture name="MLP School Left0000" x="494" y="10" width="111" height="199" frameX="0" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0001" x="494" y="10" width="111" height="199" frameX="0" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0002" x="625" y="10" width="97" height="199" frameX="-10" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0003" x="625" y="10" width="97" height="199" frameX="-10" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0004" x="742" y="10" width="101" height="199" frameX="-15" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0005" x="742" y="10" width="101" height="199" frameX="-15" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0006" x="742" y="10" width="101" height="199" frameX="-15" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0007" x="742" y="10" width="101" height="199" frameX="-15" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0008" x="742" y="10" width="101" height="199" frameX="-15" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0009" x="742" y="10" width="101" height="199" frameX="-15" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0010" x="742" y="10" width="101" height="199" frameX="-15" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Left0011" x="742" y="10" width="101" height="199" frameX="-15" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Right0000" x="863" y="10" width="116" height="199"/>
+	<SubTexture name="MLP School Right0001" x="863" y="10" width="116" height="199"/>
+	<SubTexture name="MLP School Right0002" x="10" y="229" width="108" height="199" frameX="-3" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Right0003" x="10" y="229" width="108" height="199" frameX="-3" frameY="0" frameWidth="116" frameHeight="199"/>
+	<SubTexture name="MLP School Right0004" x="393" y="229" width="101" height="199" frameX="-6" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Right0005" x="393" y="229" width="101" height="199" frameX="-6" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Right0006" x="393" y="229" width="101" height="199" frameX="-6" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Right0007" x="393" y="229" width="101" height="199" frameX="-6" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Right0008" x="393" y="229" width="101" height="199" frameX="-6" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Right0009" x="393" y="229" width="101" height="199" frameX="-6" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Right0010" x="393" y="229" width="101" height="199" frameX="-6" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Right0011" x="393" y="229" width="101" height="199" frameX="-6" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0000" x="138" y="229" width="116" height="201" frameX="0" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0001" x="138" y="229" width="116" height="201" frameX="0" frameY="0" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0002" x="274" y="229" width="99" height="200" frameX="-19" frameY="-1" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0003" x="274" y="229" width="99" height="200" frameX="-19" frameY="-1" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0004" x="393" y="229" width="101" height="199" frameX="-33" frameY="-1" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0005" x="393" y="229" width="101" height="199" frameX="-33" frameY="-1" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0006" x="393" y="229" width="101" height="199" frameX="-33" frameY="-1" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0007" x="393" y="229" width="101" height="199" frameX="-33" frameY="-1" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0008" x="393" y="229" width="101" height="199" frameX="-33" frameY="-1" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0009" x="393" y="229" width="101" height="199" frameX="-33" frameY="-1" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0010" x="393" y="229" width="101" height="199" frameX="-33" frameY="-1" frameWidth="134" frameHeight="201"/>
+	<SubTexture name="MLP School Up0011" x="393" y="229" width="101" height="199" frameX="-33" frameY="-1" frameWidth="134" frameHeight="201"/>
+</TextureAtlas>

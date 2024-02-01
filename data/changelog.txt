@@ -1,0 +1,66 @@
+V1 - 1/26/2024
+- Added Week G
+- Added Guy Character
+- Added Guy Song
+- Added Guy Dialogue
+- Added Guy Icon
+
+V2 - 1/27/2024
+- Updated to Psych Engine 7.3
+- Added Red Guy Character
+- Added Waste Song
+- Added Waste Dialogue
+- Added Portilizen Credits Icon
+- Added Nether Stage
+- Added New Credits
+- Updated Guy Dialogue
+- Added Post Waste Cutscene
+- Updated Week G Icon
+- Added God Guy Character
+- Added God Guy Song
+- Added God Guy Dialogue
+- Added God Gye Cutscene
+- Added God Guy Modchart
+- Updated Week G
+- Added God Guy Icon
+- Added Wade-mix Difficulty
+- Added God Guy wade-mix
+- Added Guy wade-mix
+- Added Waste wade-mix
+
+V2.1 - 1/28/2024
+- Removed Healthbar Script from PsychModPack
+- Added Version Text Display
+- Fixed bug: There is no TEXT asset with an ID of "assets/shared/data/god-guy/god-guy-wade.json"
+
+V2.2 - 1/28/2024
+- Majorly Overhauled Graphics for Waste on the Wade Mix Difficulty
+- Majorly Overhauled Graphics for Guy on the Wade Mix Difficulty
+- Majorly Overhauled Graphics for God Guy on the Wade Mix Difficulty
+- Added Stage Change event from Rodney
+- Split Wademix Songs into a different week
+- Added Animated Intro Cutscenes to Guy
+- Added Animated Intro Cutscenes to Waste
+- Added Nether BF
+- Added Dark BF
+- Updated Backgrounds for Wade Mix Songs
+- Updated God Guy to change bf to dark bf
+
+V2.3 - 1/28/2024
+- Removed "flashStuff" folder from the mod files
+- Removed most of the Unused content
+- Removed "cutsceneStuff" folder from the mod files
+in total: 383,531 KB removed
+
+V3.0 - 3/1/2024
+- Updated Icons and Bar color for Guy, Red Guy, and God Guy
+- Redid Credits
+- Redid Freeplay Background Colors for week G and wade-mix
+- Added Team Disc Branding
+- Added Composer Credit bar
+- Added Secret Song
+- Added Custom DiscordRPC
+- Updated Wade Credit Icon
+- Updated Wade Week (You have to unlock it now)
+- Updated Mod Pack Title
+- Replaced Silly Dialogue with Lore Dialogue

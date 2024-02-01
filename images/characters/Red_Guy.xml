@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Red_Guy.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="RedGuy_ DrinkBeer0000" x="527" y="0" width="338" height="480" frameX="-260" frameY="10" frameWidth="900" frameHeight="486"/>
+	<SubTexture name="RedGuy_ Beer0000" x="0" y="416" width="343" height="480" frameX="-285" frameY="10" frameWidth="900" frameHeight="486"/>
+	<SubTexture name="RedGuy_ Down0000" x="865" y="538" width="273" height="316" frameX="-345" frameY="-102" frameWidth="900" frameHeight="486"/>
+	<SubTexture name="RedGuy_ Left0000" x="0" y="896" width="369" height="324" frameX="-200" frameY="-80" frameWidth="900" frameHeight="486"/>
+	<SubTexture name="RedGuy_ Right0000" x="0" y="0" width="527" height="416" frameX="-289" frameY="-52" frameWidth="900" frameHeight="486"/>
+	<SubTexture name="RedGuy_ Up0000" x="865" y="0" width="276" height="538" frameX="-490" frameY="-41" frameWidth="1300" frameHeight="702"/>
+	<SubTexture name="RedGuy_ Idle0000" x="1141" y="0" width="270" height="477" frameX="-285" frameY="8" frameWidth="900" frameHeight="486"/>
+</TextureAtlas>

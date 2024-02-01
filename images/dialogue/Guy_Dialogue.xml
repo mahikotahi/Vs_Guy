@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Guy_Dialogue.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Guy_ Cry0000" x="276" y="0" width="274" height="509" frameX="-27" frameY="-79" frameWidth="400" frameHeight="700"/>
+	<SubTexture name="Guy_ Confused0000" x="824" y="0" width="274" height="508" frameX="-54" frameY="-87" frameWidth="400" frameHeight="700"/>
+	<SubTexture name="Guy_ Mad0000" x="550" y="0" width="274" height="508" frameX="-62" frameY="-96" frameWidth="400" frameHeight="700"/>
+	<SubTexture name="Guy_ Idle0000" x="0" y="0" width="276" height="516" frameX="-134" frameY="-37" frameWidth="550" frameHeight="600"/>
+</TextureAtlas>

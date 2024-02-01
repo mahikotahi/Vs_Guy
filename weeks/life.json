@@ -1,0 +1,32 @@
+{
+	"storyName": "Get the fuck out of the code you stupid idiot, would you like it if someone looked through your shit? didnt think so fucker.",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "wade",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"My Life",
+			"xelo",
+			[
+				146,
+				146,
+				146
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "life",
+	"hiddenUntilUnlocked": true
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				820,
+				270
+			],
+			"anim": "singLEFT",
+			"fps": 9,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				980,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 9,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				930,
+				220
+			],
+			"anim": "singUP",
+			"fps": 9,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				940,
+				190
+			],
+			"anim": "singRIGHT",
+			"fps": 9,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				780,
+				240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "guy",
+	"no_antialiasing": true,
+	"image": "characters/Guy_WadeMix",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "guynew",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		153,
+		255
+	],
+	"camera_position": [
+		-160,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": false
+}

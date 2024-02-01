@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="xelocortela.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MLP DontWorry0000" x="10" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0001" x="198" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0002" x="386" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0003" x="574" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0004" x="762" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0005" x="950" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0006" x="1138" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0007" x="1326" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0008" x="1514" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0009" x="1702" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0010" x="1702" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0011" x="1702" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0012" x="1702" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0013" x="1702" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0014" x="1702" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0015" x="1702" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0016" x="1702" y="10" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0017" x="10" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0018" x="10" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0019" x="10" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0020" x="10" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0021" x="198" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0022" x="386" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0023" x="574" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0024" x="762" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0025" x="950" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0026" x="1138" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0027" x="1326" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0028" x="1514" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0029" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0030" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0031" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0032" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0033" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0034" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0035" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0036" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0037" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0038" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0039" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0040" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0041" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0042" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0043" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0044" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0045" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0046" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP DontWorry0047" x="1702" y="220" width="168" height="190"/>
+	<SubTexture name="MLP Down0000" x="10" y="430" width="158" height="153" frameX="0" frameY="-20" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0001" x="10" y="430" width="158" height="153" frameX="0" frameY="-20" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0002" x="10" y="430" width="158" height="153" frameX="0" frameY="-20" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0003" x="10" y="430" width="158" height="153" frameX="0" frameY="-20" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0004" x="188" y="430" width="157" height="177" frameX="0" frameY="0" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0005" x="188" y="430" width="157" height="177" frameX="0" frameY="0" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0006" x="188" y="430" width="157" height="177" frameX="0" frameY="0" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0007" x="188" y="430" width="157" height="177" frameX="0" frameY="0" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0008" x="188" y="430" width="157" height="177" frameX="0" frameY="0" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0009" x="188" y="430" width="157" height="177" frameX="0" frameY="0" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0010" x="188" y="430" width="157" height="177" frameX="0" frameY="0" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Down0011" x="188" y="430" width="157" height="177" frameX="0" frameY="0" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0000" x="365" y="430" width="166" height="212"/>
+	<SubTexture name="MLP Fast Down0001" x="365" y="430" width="166" height="212"/>
+	<SubTexture name="MLP Fast Down0002" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0003" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0004" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0005" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0006" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0007" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0008" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0009" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0010" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Down0011" x="188" y="430" width="157" height="177" frameX="-2" frameY="-7" frameWidth="158" frameHeight="177"/>
+	<SubTexture name="MLP Fast Left0000" x="551" y="430" width="198" height="205"/>
+	<SubTexture name="MLP Fast Left0001" x="551" y="430" width="198" height="205"/>
+	<SubTexture name="MLP Fast Left0002" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Left0003" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Left0004" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Left0005" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Left0006" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Left0007" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Left0008" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Left0009" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Left0010" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Left0011" x="822" y="713" width="138" height="196" frameX="-36" frameY="-2" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Fast Right0000" x="769" y="430" width="239" height="196"/>
+	<SubTexture name="MLP Fast Right0001" x="769" y="430" width="239" height="196"/>
+	<SubTexture name="MLP Fast Right0002" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Right0003" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Right0004" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Right0005" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Right0006" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Right0007" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Right0008" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Right0009" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Right0010" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Right0011" x="1181" y="713" width="181" height="188" frameX="-25" frameY="-2" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Fast Up0000" x="1028" y="430" width="163" height="263" frameX="0" frameY="0" frameWidth="174" frameHeight="263"/>
+	<SubTexture name="MLP Fast Up0001" x="1028" y="430" width="163" height="263" frameX="0" frameY="0" frameWidth="174" frameHeight="263"/>
+	<SubTexture name="MLP Fast Up0002" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Fast Up0003" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Fast Up0004" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Fast Up0005" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Fast Up0006" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Fast Up0007" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Fast Up0008" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Fast Up0009" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Fast Up0010" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Fast Up0011" x="1557" y="713" width="172" height="190" frameX="-2" frameY="-42" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Head0000" x="1211" y="430" width="94" height="89"/>
+	<SubTexture name="MLP Idle0000" x="1325" y="430" width="168" height="190" frameX="-7" frameY="0" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0001" x="1325" y="430" width="168" height="190" frameX="-7" frameY="0" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0002" x="1513" y="430" width="175" height="188" frameX="-6" frameY="-2" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0003" x="1513" y="430" width="175" height="188" frameX="-6" frameY="-2" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0004" x="1708" y="430" width="184" height="188" frameX="-4" frameY="-2" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0005" x="1708" y="430" width="184" height="188" frameX="-4" frameY="-2" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0006" x="10" y="713" width="191" height="186" frameX="-3" frameY="-4" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0007" x="10" y="713" width="191" height="186" frameX="-3" frameY="-4" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0008" x="221" y="713" width="197" height="185" frameX="-2" frameY="-5" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0009" x="221" y="713" width="197" height="185" frameX="-2" frameY="-5" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0010" x="438" y="713" width="204" height="184" frameX="0" frameY="-6" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Idle0011" x="438" y="713" width="204" height="184" frameX="0" frameY="-6" frameWidth="204" frameHeight="190"/>
+	<SubTexture name="MLP Left0000" x="662" y="713" width="140" height="197" frameX="0" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0001" x="662" y="713" width="140" height="197" frameX="0" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0002" x="662" y="713" width="140" height="197" frameX="0" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0003" x="662" y="713" width="140" height="197" frameX="0" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0004" x="822" y="713" width="138" height="196" frameX="-9" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0005" x="822" y="713" width="138" height="196" frameX="-9" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0006" x="822" y="713" width="138" height="196" frameX="-9" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0007" x="822" y="713" width="138" height="196" frameX="-9" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0008" x="822" y="713" width="138" height="196" frameX="-9" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0009" x="822" y="713" width="138" height="196" frameX="-9" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0010" x="822" y="713" width="138" height="196" frameX="-9" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Left0011" x="822" y="713" width="138" height="196" frameX="-9" frameY="0" frameWidth="147" frameHeight="197"/>
+	<SubTexture name="MLP Right0000" x="980" y="713" width="181" height="188" frameX="-2" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0001" x="980" y="713" width="181" height="188" frameX="-2" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0002" x="980" y="713" width="181" height="188" frameX="-2" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0003" x="980" y="713" width="181" height="188" frameX="-2" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0004" x="1181" y="713" width="181" height="188" frameX="0" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0005" x="1181" y="713" width="181" height="188" frameX="0" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0006" x="1181" y="713" width="181" height="188" frameX="0" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0007" x="1181" y="713" width="181" height="188" frameX="0" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0008" x="1181" y="713" width="181" height="188" frameX="0" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0009" x="1181" y="713" width="181" height="188" frameX="0" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0010" x="1181" y="713" width="181" height="188" frameX="0" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Right0011" x="1181" y="713" width="181" height="188" frameX="0" frameY="0" frameWidth="183" frameHeight="188"/>
+	<SubTexture name="MLP Up0000" x="1382" y="713" width="155" height="205" frameX="0" frameY="0" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0001" x="1382" y="713" width="155" height="205" frameX="0" frameY="0" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0002" x="1382" y="713" width="155" height="205" frameX="0" frameY="0" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0003" x="1382" y="713" width="155" height="205" frameX="0" frameY="0" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0004" x="1557" y="713" width="172" height="190" frameX="0" frameY="-15" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0005" x="1557" y="713" width="172" height="190" frameX="0" frameY="-15" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0006" x="1557" y="713" width="172" height="190" frameX="0" frameY="-15" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0007" x="1557" y="713" width="172" height="190" frameX="0" frameY="-15" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0008" x="1557" y="713" width="172" height="190" frameX="0" frameY="-15" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0009" x="1557" y="713" width="172" height="190" frameX="0" frameY="-15" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0010" x="1557" y="713" width="172" height="190" frameX="0" frameY="-15" frameWidth="172" frameHeight="205"/>
+	<SubTexture name="MLP Up0011" x="1557" y="713" width="172" height="190" frameX="0" frameY="-15" frameWidth="172" frameHeight="205"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Red_Dialogue.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Confused0000" x="438" y="0" width="219" height="380" frameX="-268" frameY="9" frameWidth="800" frameHeight="379"/>
+	<SubTexture name="Annoy0000" x="219" y="0" width="219" height="380" frameX="-268" frameY="9" frameWidth="800" frameHeight="379"/>
+	<SubTexture name="Oki0000" x="0" y="0" width="219" height="380" frameX="-268" frameY="9" frameWidth="800" frameHeight="379"/>
+	<SubTexture name="Influence0000" x="657" y="0" width="219" height="380" frameX="-268" frameY="8" frameWidth="800" frameHeight="380"/>
+</TextureAtlas>

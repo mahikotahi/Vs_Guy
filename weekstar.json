@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Galaxy",
+			"purpleguy",
+			[
+				140,
+				33,
+				175
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"purple",
+		"",
+		"bf"
+	],
+	"storyName": "Galaxy Protecter",
+	"weekName": "GalaxyProtecter",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

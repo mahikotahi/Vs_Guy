@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				180
+			],
+			"anim": "singLEFT",
+			"fps": 9,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				180
+			],
+			"anim": "singDOWN",
+			"fps": 9,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				180
+			],
+			"anim": "singUP",
+			"fps": 9,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				180
+			],
+			"anim": "singRIGHT",
+			"fps": 9,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "godguy",
+	"no_antialiasing": false,
+	"image": "characters/GodGuy_WadeMix",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "godguynew",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		204,
+		0
+	],
+	"camera_position": [
+		-160,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

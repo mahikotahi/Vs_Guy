@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Men",
+	"idle_anim": "Men",
+	"position": [
+		180,
+		230
+	],
+	"scale": 0.4,
+	"image": "Menu_Guy",
+	"flipX": false
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ratings.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="F0000" x="688" y="0" width="229" height="429" frameX="-157" frameY="-13" frameWidth="433" frameHeight="441"/>
+	<SubTexture name="E0000" x="413" y="403" width="250" height="431" frameX="-138" frameY="-6" frameWidth="433" frameHeight="441"/>
+	<SubTexture name="D0000" x="0" y="415" width="301" height="438" frameX="-98" frameY="0" frameWidth="433" frameHeight="441"/>
+	<SubTexture name="C0000" x="413" y="0" width="275" height="403" frameX="-100" frameY="-14" frameWidth="433" frameHeight="441"/>
+	<SubTexture name="B0000" x="688" y="429" width="228" height="423" frameX="-127" frameY="-12" frameWidth="433" frameHeight="441"/>
+	<SubTexture name="A0000" x="0" y="0" width="413" height="415" frameX="-11" frameY="-22" frameWidth="433" frameHeight="441"/>
+</TextureAtlas>

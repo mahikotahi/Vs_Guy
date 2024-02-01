@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				360,
+				195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				320,
+				208
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				440,
+				118
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				380,
+				150
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				420,
+				180
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		}
+	],
+	"vocals_file": "redguy",
+	"no_antialiasing": true,
+	"image": "characters/RedGuy_WadeMix",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "redguy",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		51,
+		51
+	],
+	"camera_position": [
+		-160,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": false
+}

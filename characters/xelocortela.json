@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-160,
+				-350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MLP Idle"
+		},
+		{
+			"offsets": [
+				-100,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MLP Left"
+		},
+		{
+			"offsets": [
+				-184,
+				-374
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MLP Down"
+		},
+		{
+			"offsets": [
+				-164,
+				-320
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MLP Up"
+		},
+		{
+			"offsets": [
+				-162,
+				-352
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MLP Right"
+		},
+		{
+			"offsets": [
+				-100,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Fast Left",
+			"indices": [],
+			"name": "MLP Fast Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-184,
+				-374
+			],
+			"anim": "Fast Down",
+			"fps": 24,
+			"name": "MLP Fast Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-164,
+				-320
+			],
+			"anim": "Fast Up",
+			"fps": 24,
+			"name": "MLP Fast Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-162,
+				-350
+			],
+			"anim": "Fast Right",
+			"fps": 24,
+			"name": "MLP Fast Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-350
+			],
+			"anim": "DontWorry",
+			"fps": 24,
+			"name": "MLP DontWorry",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/xelocortela",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "xelo",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 2,
+	"_editor_isPlayer": false
+}
