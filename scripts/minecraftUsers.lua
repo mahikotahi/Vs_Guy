@@ -12,24 +12,26 @@ function onCreate()
     makeLuaText("rgtext", "redMan420", 0, 280, 30)
     setScrollFactor("rgtext", 1.0, 1.0)
 
-    rng = getRandomInt(1, 32)
+    rng = getRandomInt(1, 10)
 
-    if rng == 1 then
+    if rng < 3 then
         setTextString("bftext", "notBoyfriend")
-    elseif rng == 3 then
+    elseif rng < 5 then
         setTextString("bftext", "xmlMan")
-    elseif rng == 5 then
+    elseif rng < 7 then
         setTextString("bftext", "Shortster")
-    elseif rng == 7 then
+    elseif rng < 9 then
         setTextString("bftext", "BestRapManEva")
-    elseif rng == 9 then
+    elseif rng < 11 then
         setTextString("bftext", "51ng3r43va")
-    elseif rng == 12 then
+    elseif rng == 60 then
         setTextString("bftext", "notKeith")
-    elseif rng == 16 then
+    elseif rng == 63 then
         setTextString("bftext", "notEvan")
-    elseif rng == 32 then
+    elseif rng == 64 then
         setTextString("bftext", "keith")
+    elseif rng == 66 then
+        setTextString("bftext", "evan")
     end
 
     --addLuaSprite("bfbox", true)
