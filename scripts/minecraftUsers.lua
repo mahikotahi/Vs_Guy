@@ -12,6 +12,26 @@ function onCreate()
     makeLuaText("rgtext", "redMan420", 0, 280, 30)
     setScrollFactor("rgtext", 1.0, 1.0)
 
+    rng = getRandomInt(1, 32)
+
+    if rng == 1 then
+        setTextString("bftext", "notBoyfriend")
+    elseif rng == 3 then
+        setTextString("bftext", "xmlMan")
+    elseif rng == 5 then
+        setTextString("bftext", "Shortster")
+    elseif rng == 7 then
+        setTextString("bftext", "BestRapManEva")
+    elseif rng == 9 then
+        setTextString("bftext", "51ng3r43va")
+    elseif rng == 12 then
+        setTextString("bftext", "notKeith")
+    elseif rng == 16 then
+        setTextString("bftext", "notEvan")
+    elseif rng == 32 then
+        setTextString("bftext", "keith")
+    end
+
     --addLuaSprite("bfbox", true)
 
     if songName == 'Waste' or songName == 'Waste-wade' then
@@ -21,13 +41,34 @@ function onCreate()
 end
 
 function onUpdate(elapsed)
-    if songName == 'God-Guy-wade' and curStep >= 57525 then
+    if songName == 'God Guy-wade' and curStep == 768 then
+        makeLuaText("ggtext", "IM A GOD YOU CANT STOP ME", 0, 200, 30)
+        setScrollFactor("ggtext", 1.0, 1.0)
+
         addLuaText("bftext")
-        addLuaText("rgtext")
+        addLuaText("ggtext")
     end
-    if songName == 'God-Guy-wade' and curStep >= 76800 then
+    if songName == 'God Guy-wade' and curStep == 1024 then
         removeLuaText("bftext", true)
-        removeLuaText("rgtext", true)
+        removeLuaText("ggtext", true)
         --addLuaText("rgtext")
+    end
+
+    rng2 = getRandomInt(1, 100)
+
+    if rng2 < 51 then
+        rng = getRandomInt(1, 10)
+    end
+
+    if rng == 1 then
+        setTextString("ggtext", "IM A GOD YOU CANT STOP ME")
+    elseif rng == 3 then
+        setTextString("ggtext", "IM A GOD IM A GOD IM A GO")
+    elseif rng == 5 then
+        setTextString("ggtext", "YOU CANT STOP ME YOU CANT")
+    elseif rng == 7 then
+        setTextString("ggtext", "HAHAHAHAHAHAHAHAHAHAHAHAH")
+    elseif rng == 9 then
+        setTextString("ggtext", "MY GAME NOW MY GAME NOW M")
     end
 end
