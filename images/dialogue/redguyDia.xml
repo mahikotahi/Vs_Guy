@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redguyDia.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Red Guy Cough0000" x="0" y="0" width="455" height="399"/>
+	<SubTexture name="Red Guy Normal0000" x="475" y="0" width="455" height="399"/>
+	<SubTexture name="Red Guy Sad0000" x="950" y="0" width="455" height="399"/>
+	<SubTexture name="Red Guy Shock0000" x="1425" y="0" width="455" height="399"/>
+	<SubTexture name="Red Guy Smirk0000" x="0" y="419" width="455" height="399"/>
+</TextureAtlas>

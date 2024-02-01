@@ -1,0 +1,77 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		30
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "Red Guy Normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Red Guy Normal",
+			"anim": "normal",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Red Guy Shock",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Red Guy Shock",
+			"anim": "shock",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Red Guy Sad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Red Guy Sad",
+			"anim": "sad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Red Guy Cough",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Red Guy Cough",
+			"anim": "cough",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Red Guy Smirk",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Red Guy Smirk",
+			"anim": "smirk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "redguyDia"
+}

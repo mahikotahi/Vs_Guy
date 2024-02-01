@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"expression": "normal",
+			"text": "yo man",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "confused",
+			"text": "?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boydia"
+		},
+		{
+			"expression": "smirk",
+			"text": "want some nether wart?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "smirk",
+			"text": "it tastes so fucking good man",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "angry",
+			"text": "ba bo bee!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boydia"
+		},
+		{
+			"expression": "shock",
+			"text": "Woah, you rap?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "talk",
+			"text": "bo de be si bap",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boydia"
+		},
+		{
+			"expression": "normal",
+			"text": "hell yah man!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "smirk",
+			"text": "you famous?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "confused",
+			"text": "de be si...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "boydia"
+		},
+		{
+			"expression": "cough",
+			"text": "*cough *cough",
+			"boxState": "normal",
+			"sound": "guyCrom",
+			"speed": 0.1,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "sad",
+			"text": "this nether wart hits hard",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "sad",
+			"text": "sorry man",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "sad",
+			"text": "i've been very loopy since i started my addiction",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "sing",
+			"text": "bap!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boydia"
+		},
+		{
+			"expression": "talk",
+			"text": "oh yes of course!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		},
+		{
+			"expression": "smirk",
+			"text": "I've always wanted to try and rap!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "redmandia"
+		}
+	]
+}

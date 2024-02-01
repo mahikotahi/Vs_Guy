@@ -5,6 +5,7 @@ playVideo = false;
 playDialogue = true;
 
 function onStartCountdown()
+	cameraSetTarget("boyfriend")
     if not allowCountdown and isStoryMode and not seenCutscene then
 		if playDialogue then --Once the video ends it calls onStartCountdown again. Play dialogue this time
 			startDialogue('dialogueS', 'breakfast'); --"breakfast" is the dialogue music file from "music/" folder

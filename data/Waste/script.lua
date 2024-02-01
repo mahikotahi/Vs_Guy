@@ -1,18 +1,18 @@
 local allowCountdown = false
 local startedFirstDialogue = false
 local startedEndDialogue = false
-playVideo = true;
+playVideo = false;
 playDialogue = true;
 
 function onStartCountdown()
+
+    cameraSetTarget("boyfriend")
+    
     if not allowCountdown and isStoryMode then
-        if playVideo then --Video cutscene plays first
-			startVideo('redCutsene'); --Play video file from "videos/" folder
-			playVideo = false;
-			return Function_Stop; --Prevents the song from starting naturally
-		elseif playDialogue then --Once the video ends it calls onStartCountdown again. Play dialogue this time
-			startDialogue('dialogue', 'breakfast'); --"breakfast" is the dialogue music file from "music/" folder
+		if playDialogue then
+			startDialogue('dialogueS', 'breakfast');
 			playDialogue = false;
+            playVideo = true;
 			return Function_Stop; --Prevents the song from starting naturally
 		end
     end
@@ -21,18 +21,13 @@ function onStartCountdown()
 end
 
 function onEndSong()
-    if not allowCountdown and isStoryMode and not startedEndDialogue then
-        setProperty('inCutscene', true);
-        runTimer('startDialogueEnd', 0.8);
-        startedEndDialogue = true;
-        return Function_Stop;
+    if not allowCountdown and isStoryMode then
+		if playVideo then
+            playVideo = false;
+			startVideo('Waste-PostCutscene_audio');
+			return Function_Stop; --Prevents the song from starting naturally
+		end
     end
 
     return Function_Continue;
-end
-
-function onTimerCompleted(tag, loops, loopsLeft)
-    if tag == 'startDialogueEnd' then
-        startDialogue('dialogueEnd', 'breakfast');
-    end
 end

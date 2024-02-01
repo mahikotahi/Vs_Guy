@@ -3,6 +3,8 @@ local startedFirstDialogue = false
 local startedEndDialogue = false
 
 function onStartCountdown()
+    cameraSetTarget("boyfriend")
+    
     if not allowCountdown and isStoryMode and not startedFirstDialogue then
         setProperty('inCutscene', true);
         runTimer('startDialogue', 0.8);
@@ -26,7 +28,7 @@ end
 
 function onTimerCompleted(tag, loops, loopsLeft)
     if tag == 'startDialogue' then
-        startDialogue('dialogue', 'breakfast');
+        startDialogue('dialogueS', 'breakfast');
     elseif tag == 'startDialogueEnd' then
         --startDialogue('dialogueEnd', 'breakfast');
         startVideo("GodGye-PostCutscene");
