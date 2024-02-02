@@ -46,6 +46,10 @@ end
 ---
 function onTimerCompleted(tag, loops, loopsLeft)
     if tag == 'blacks' then
+        if songName == 'Cyster' then
+            setTextString("blacktext", "GAMBEI IS MY GOD!")
+        end
+
         doTweenX("bb2", "blackbar", -400, 1.0, "easeTo")
         doTweenX("bt2", "blacktext", -300, 1.0, "easeTo")
         doTweenX("bd2", "disc", -300, 1.0, "easeTo")
@@ -63,4 +67,3 @@ function onTweenCompleted(tag)
         removeLuaSprite("disc", true)
     end
 end
-
