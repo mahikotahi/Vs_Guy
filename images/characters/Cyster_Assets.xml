@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cyster_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cyster Down0000" x="0" y="0" width="564" height="448" frameX="-47" frameY="0" frameWidth="611" frameHeight="448"/>
+	<SubTexture name="Cyster Down0001" x="0" y="0" width="564" height="448" frameX="-47" frameY="0" frameWidth="611" frameHeight="448"/>
+	<SubTexture name="Cyster Down0002" x="584" y="0" width="593" height="407" frameX="0" frameY="-1" frameWidth="611" frameHeight="448"/>
+	<SubTexture name="Cyster Down0003" x="584" y="0" width="593" height="407" frameX="0" frameY="-1" frameWidth="611" frameHeight="448"/>
+	<SubTexture name="Cyster Down0004" x="584" y="0" width="593" height="407" frameX="0" frameY="-1" frameWidth="611" frameHeight="448"/>
+	<SubTexture name="Cyster Down0005" x="584" y="0" width="593" height="407" frameX="0" frameY="-1" frameWidth="611" frameHeight="448"/>
+	<SubTexture name="Cyster Idle0000" x="1197" y="0" width="285" height="629"/>
+	<SubTexture name="Cyster Idle0001" x="1197" y="0" width="285" height="629"/>
+	<SubTexture name="Cyster Idle0002" x="1197" y="0" width="285" height="629"/>
+	<SubTexture name="Cyster Idle0003" x="1197" y="0" width="285" height="629"/>
+	<SubTexture name="Cyster Idle0004" x="1197" y="0" width="285" height="629"/>
+	<SubTexture name="Cyster Idle0005" x="1197" y="0" width="285" height="629"/>
+	<SubTexture name="Cyster Laugh0000" x="1502" y="0" width="285" height="663"/>
+	<SubTexture name="Cyster Laugh0001" x="1502" y="0" width="285" height="663"/>
+	<SubTexture name="Cyster Laugh0002" x="1807" y="0" width="285" height="612" frameX="0" frameY="-49" frameWidth="285" frameHeight="663"/>
+	<SubTexture name="Cyster Laugh0003" x="1807" y="0" width="285" height="612" frameX="0" frameY="-49" frameWidth="285" frameHeight="663"/>
+	<SubTexture name="Cyster Laugh0004" x="1807" y="0" width="285" height="612" frameX="0" frameY="-49" frameWidth="285" frameHeight="663"/>
+	<SubTexture name="Cyster Laugh0005" x="1807" y="0" width="285" height="612" frameX="0" frameY="-49" frameWidth="285" frameHeight="663"/>
+	<SubTexture name="Cyster Left0000" x="2112" y="0" width="573" height="574"/>
+	<SubTexture name="Cyster Left0001" x="2112" y="0" width="573" height="574"/>
+	<SubTexture name="Cyster Left0002" x="2705" y="0" width="496" height="574" frameX="-21" frameY="0" frameWidth="573" frameHeight="574"/>
+	<SubTexture name="Cyster Left0003" x="2705" y="0" width="496" height="574" frameX="-21" frameY="0" frameWidth="573" frameHeight="574"/>
+	<SubTexture name="Cyster Left0004" x="2705" y="0" width="496" height="574" frameX="-21" frameY="0" frameWidth="573" frameHeight="574"/>
+	<SubTexture name="Cyster Left0005" x="2705" y="0" width="496" height="574" frameX="-21" frameY="0" frameWidth="573" frameHeight="574"/>
+	<SubTexture name="Cyster Right0000" x="3221" y="0" width="631" height="613"/>
+	<SubTexture name="Cyster Right0001" x="3221" y="0" width="631" height="613"/>
+	<SubTexture name="Cyster Right0002" x="0" y="683" width="446" height="613" frameX="-168" frameY="0" frameWidth="631" frameHeight="613"/>
+	<SubTexture name="Cyster Right0003" x="0" y="683" width="446" height="613" frameX="-168" frameY="0" frameWidth="631" frameHeight="613"/>
+	<SubTexture name="Cyster Right0004" x="0" y="683" width="446" height="613" frameX="-168" frameY="0" frameWidth="631" frameHeight="613"/>
+	<SubTexture name="Cyster Right0005" x="0" y="683" width="446" height="613" frameX="-168" frameY="0" frameWidth="631" frameHeight="613"/>
+	<SubTexture name="Cyster Up0000" x="466" y="683" width="491" height="778" frameX="-28" frameY="0" frameWidth="519" frameHeight="778"/>
+	<SubTexture name="Cyster Up0001" x="466" y="683" width="491" height="778" frameX="-28" frameY="0" frameWidth="519" frameHeight="778"/>
+	<SubTexture name="Cyster Up0002" x="977" y="683" width="484" height="656" frameX="0" frameY="-18" frameWidth="519" frameHeight="778"/>
+	<SubTexture name="Cyster Up0003" x="977" y="683" width="484" height="656" frameX="0" frameY="-18" frameWidth="519" frameHeight="778"/>
+	<SubTexture name="Cyster Up0004" x="977" y="683" width="484" height="656" frameX="0" frameY="-18" frameWidth="519" frameHeight="778"/>
+	<SubTexture name="Cyster Up0005" x="977" y="683" width="484" height="656" frameX="0" frameY="-18" frameWidth="519" frameHeight="778"/>
+</TextureAtlas>

@@ -14,7 +14,7 @@ function onCreate()
     setObjectCamera("blackbar", 'camHUD')
     scaleLuaSprite("blackbar", 0.3, 0.05)
 
-    if songName == 'Guy' or songName == 'Waste' or songName == 'God Guy' then
+    if songName == 'Guy' or songName == 'Waste' or songName == 'God Guy' or songName == 'Lone'then
         credits = "Song composed by portilizen"
     elseif songName == 'Guy-wade' or songName == 'Waste-wade' or songName == 'God Guy-wade' then
         scaleLuaSprite("blackbar", 0.32, 0.05)
@@ -22,6 +22,9 @@ function onCreate()
     elseif songName == 'My-Life' then
         scaleLuaSprite("blackbar", 0.32, 0.05)
         credits = "Song composed by xdelirium" 
+    elseif songName == 'Cyster' then
+        scaleLuaSprite("blackbar", 0.34, 0.05)
+        credits = "Song composed by thatOneGambei" 
     end
 
     --luaDebugMode = true

@@ -58,7 +58,7 @@ V3.0 - Q2 2024
 - Redid Freeplay Background Colors for week G and wade-mix
 - Added Team Disc Branding
 - Added Composer Credit bar
-- Added Secret Song
+- Added 2 Secret Songs
 - Added Custom DiscordRPC
 - Updated Wade Credit Icon
 - Updated Wade Week (You have to unlock it now)
@@ -66,4 +66,4 @@ V3.0 - Q2 2024
 - Replaced Silly Dialogue with Serious Dialogue
 - Added Minecraft Usernames to Waste, Waste-wade, and God-Guy-wade's Waste Section
 - Added Public Github (don't leak any shit unless your a fucking bitch)
-- 
+- Added Cyster; New Song
