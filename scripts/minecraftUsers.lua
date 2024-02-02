@@ -34,18 +34,25 @@ function onCreate()
         setTextString("bftext", "evan")
     end
 
+    makeLuaText("ggtext", "IM A GOD YOU CANT STOP ME", 0, 200, 30)
+    setScrollFactor("ggtext", 1.0, 1.0)
+    makeLuaText("bf2text", "notBoyfriend", 0, 1000, 180)
+    setScrollFactor("bf2text", 1.0, 1.0)
+
     --addLuaSprite("bfbox", true)
 
     if songName == 'Waste' or songName == 'Waste-wade' then
         addLuaText("bftext")
         addLuaText("rgtext")
+    elseif songName == 'Cyster' then
+        makeLuaText("ggtext", "IM A GOD YOU CANT STOP ME", 0, 100, 180)
+        addLuaText('ggtext');
+        addLuaText('b2ftext');
     end
 end
 
 function onUpdate(elapsed)
     if songName == 'God Guy-wade' and curStep == 768 then
-        makeLuaText("ggtext", "IM A GOD YOU CANT STOP ME", 0, 200, 30)
-        setScrollFactor("ggtext", 1.0, 1.0)
 
         addLuaText("bftext")
         addLuaText("ggtext")
@@ -63,14 +70,26 @@ function onUpdate(elapsed)
     end
 
     if rng == 1 then
-        setTextString("ggtext", "IM A GOD YOU CANT STOP ME")
+        setTextString("ggtext", "IM A GOD YOU CANT STOP ME IM A GOD YOU CANT STOP ME IM A GOD YOU CANT STOP ME IM A GOD YOU CANT STOP ME IM A GOD YOU CANT STOP ME IM A GOD YOU ")
+        setTextString("b2ftext", "MY BITCH")
     elseif rng == 3 then
-        setTextString("ggtext", "IM A GOD IM A GOD IM A GO")
+        setTextString("ggtext", "IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD IM A GOD")
+        setTextString("b2ftext", "MY PET")
     elseif rng == 5 then
-        setTextString("ggtext", "YOU CANT STOP ME YOU CANT")
+        setTextString("ggtext", "YOU CANT STOP ME YOU CANT STOP ME YOU CANT STOP ME YOU CANT STOP ME YOU CANT STOP ME YOU CANT STOP ME YOU CANT STOP ME YOU CANT STOP ME YOU CAN")
+        setTextString("b2ftext", "IDIOT")
     elseif rng == 7 then
-        setTextString("ggtext", "HAHAHAHAHAHAHAHAHAHAHAHAH")
+        setTextString("ggtext", "HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAH")
+        setTextString("b2ftext", "FAGGOT")
     elseif rng == 9 then
-        setTextString("ggtext", "MY GAME NOW MY GAME NOW M")
+        setTextString("ggtext", "MY GAME NOW MY GAME NOW MY GAME NOW MY GAME NOW MY GAME NOW MY GAME NOW MY GAME NOW MY GAME NOW MY GAME NOW MY GAME NOW MY GAME NOW MY GAME NOW")
+        setTextString("b2ftext", "VICTIM")
+    end
+
+    if songName == 'Cyster' then
+        -- makeLuaText("ggtext", "IM A GOD YOU CANT STOP ME", 0, defaultPlayerStrumX ..getRandomInt(0, 3), 180)
+        setTextSize("ggtext", getRandomInt(16, 32))
+        setTextWidth('ggtext', getRandomInt(0, 258))
+        --setProperty("ggtext.y", getRandomInt(30, 160))
     end
 end

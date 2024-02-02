@@ -7,4 +7,3 @@ xdelirium::xdel::2D sprites, Song Composition::https://www.youtube.com/channel/U
 
 Vs Guy Side Credits
 Rodney::face::stage change event::https://gamebanana.com/tools/11960::0055FF
-Rudy The Furry::face::custom pause menu script::https://www.youtube.com/channel/UC-hFOnf0ATzQRLqCsXino0w::FFFF00
