@@ -17,19 +17,6 @@ substatesCreate = {
 		startTween('deathCountAlpha', 'deathCount', {alpha = 1}, 0.25, {ease = 'quadOut'})
 		for i = 1, #options do startTween('option' .. i .. 'Alpha', 'option' .. i, {alpha = 1}, 0.25, {ease = 'quadOut'}) end
 
-		runHaxeCode([[
-			FlxTween.tween(bg, {alpha: 1}, 0.25, {ease: FlxEase.quadOut});
-			FlxTween.tween(bgGrid, {alpha: 1}, 0.25, {ease: FlxEase.quadOut});
-
-			pauseMusic = new FlxSound();
-			if(PlayState.songName != null) pauseMusic.loadEmbedded(Paths.music(PlayState.songName), true, true);
-			else if (PlayState.songName != 'None') pauseMusic.loadEmbedded(Paths.music(Paths.formatToSongPath(ClientPrefs.data.pauseMusic)), true, true);
-
-			pauseMusic.volume = 0;
-			FlxG.sound.list.add(pauseMusic);
-			-- pauseMusic.play(false, FlxG.random.int(0, Std.int(pauseMusic.length / 2)));
-		]])
-
 		setPropertyFromClass('flixel.FlxG', 'mouse.visible', true)
 	end
 }
@@ -48,7 +35,7 @@ substatesUpdate = {
 			end	
 		end
 
-		runHaxeCode('if (pauseMusic.volume < 0.5) pauseMusic.volume += 0.01 * ' .. elapsed)
+		-- runHaxeCode('if (pauseMusic.volume < 0.5) pauseMusic.volume += 0.01 * ' .. elapsed)
 
 		if keyboardJustPressed('ENTER') or (mouseOverlap('option' .. curSelected + 1) and mouseClicked()) then
 			setPropertyFromClass('flixel.FlxG', 'mouse.visible', false)
@@ -58,8 +45,8 @@ substatesUpdate = {
 			startTween('deathCountAlpha', 'deathCount', {alpha = 0}, 0.25, {ease = 'quadOut'})
 			for i = 1, #options do startTween('option' .. i .. 'Alpha', 'option' .. i, {alpha = 0}, 0.25, {ease = 'quadOut'}) end
 			runHaxeCode([[
-				FlxTween.tween(bg, {alpha: 0}, 0.25, {ease: FlxEase.quadOut});
-				FlxTween.tween(bgGrid, {alpha: 0}, 0.25, {ease: FlxEase.quadOut});
+				//FlxTween.tween(bg, {alpha: 0}, 0.25, {ease: FlxEase.quadOut});
+				//FlxTween.tween(bgGrid, {alpha: 0}, 0.25, {ease: FlxEase.quadOut});
 			]])
 
 			switch(curSelected, {
@@ -71,11 +58,10 @@ substatesUpdate = {
 						game.vocals.volume = 0;
 						OptionsState.onPlayState = true;
 						MusicBeatState.switchState(new OptionsState());
-						if(ClientPrefs.data.pauseMusic != 'None') {
-							FlxG.sound.playMusic(Paths.music(Paths.formatToSongPath(ClientPrefs.data.pauseMusic)), pauseMusic.volume);
+						--if(ClientPrefs.data.pauseMusic != 'None') {
+							-- FlxG.sound.playMusic(Paths.music(Paths.formatToSongPath(ClientPrefs.data.pauseMusic)), pauseMusic.volume);
 							FlxTween.tween(FlxG.sound.music, {volume: 0.7}, 0.8);
-							FlxG.sound.music.time = pauseMusic.time;
-						}
+						--}
 					]])
 				end,
 				[3] = function() exitSong() end
@@ -86,7 +72,7 @@ substatesUpdate = {
 
 substatesDestroy = {
 	['customPause'] = function()
-		runHaxeCode('pauseMusic.destroy();')
+		-- runHaxeCode('pauseMusic.destroy();')
 	end
 }
 
@@ -116,6 +102,7 @@ end
 
 function onCreatePost()
 	luaDebugMode = true
+	
 	addHaxeLibrary('MusicBeatState', 'backend')
 	addHaxeLibrary('OptionsState', 'options')
 	addHaxeLibrary('FlxBackdrop', 'flixel.addons.display')
