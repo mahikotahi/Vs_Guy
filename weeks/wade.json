@@ -3,18 +3,14 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "",
+	"weekBefore": "guy",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "guy",
-	"startUnlocked": false,
-	"weekCharacters": [
-		"redguy",
-		"gf",
-		"bf"
-	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Guy-wade",
@@ -44,7 +40,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "wade",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"redguy",
+		"gf",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "wade"
 }
