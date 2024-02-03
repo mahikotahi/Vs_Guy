@@ -66,4 +66,4 @@ V3.0 - Q2 2024
 - Replaced Silly Dialogue with Serious Dialogue
 - Added Minecraft Usernames to Waste, Waste-wade, and God-Guy-wade's Waste Section
 - Added Public Github (don't leak any shit unless your a fucking bitch)
-- Added Cyster; New Song
+- Added Cyster; New Mainline Song
