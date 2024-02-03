@@ -83,3 +83,4 @@ V4.0 - 4/4/2024
 - Fixed TEAM DISC HUD Appearance order
 - Fixed Week order
 - Added new freeplay song; Huy (ourple guy???)
+- Added new animated cutscene for Huy
