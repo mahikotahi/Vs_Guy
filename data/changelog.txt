@@ -67,3 +67,9 @@ V3.0 - 2/2/2024
 - Added Minecraft Usernames to Waste, Waste-wade, and God-Guy-wade's Waste Section
 - Added Public Github (don't leak any shit unless your a fucking bitch)
 - Added Cyster; New Mainline Song
+
+V4.0 - 4/4/2024
+- Updated Pack Name
+- Updated Custom DiscordRPC
+- Updated Pack Icon
+- Added new Dark Boyfriend Assets

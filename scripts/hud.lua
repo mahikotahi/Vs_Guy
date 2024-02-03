@@ -1,5 +1,5 @@
 function onSongStart()
-    makeLuaText("mod_version", "Vs Guy V3.0\nMade by Team Disc\nPsych Engine 0.7.3", 0, 0.0, 670.0)
+    makeLuaText("mod_version", "Vs Guy V4.0 DEVELOPMENT VERSION\nMade by Team Disc\nPsych Engine 0.7.3", 0, 0.0, 670.0)
     setScrollFactor("mod_version", 0.0, 0.0)
     setTextAlignment("mod_version", 'left')
     setObjectCamera("mod_version", 'camHUD')
