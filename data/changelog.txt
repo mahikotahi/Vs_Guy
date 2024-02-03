@@ -73,3 +73,4 @@ V4.0 - 4/4/2024
 - Updated Custom DiscordRPC
 - Updated Pack Icon
 - Added new Dark Boyfriend Assets
+- Changed BF Version in Cyster
