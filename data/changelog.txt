@@ -74,4 +74,6 @@ V4.0 - 4/4/2024
 - Updated Pack Icon
 - Added new Dark Boyfriend Assets
 - Changed BF Version in Cyster
+- Changed BF Version in God Guy
+- Changed BF Version in God Guy-wade
 - Removed Secret Song Lone
