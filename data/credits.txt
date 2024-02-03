@@ -7,3 +7,12 @@ xdelirium::xdel::2D sprites, Song Composition::https://www.youtube.com/channel/U
 
 Vs Guy Side Credits
 Rodney::face::stage change event::https://gamebanana.com/tools/11960::0055FF
+Meloomazy::face::character in window lua script::https://www.youtube.com/channel/UCbIAGnws0xXDraEBQSvCEYw::555555
+DuskieWhy::face::original character in window script::https://twitter.com/DuskieWhy::555555
+TaeYai::face::original character in window script::https://twitter.com/TaeYai::555555
+BreezyMelee::face::original character in window script::https://twitter.com/BreezyMelee::555555
+YoshiCrafter::face::original character in window script additional help::https://twitter.com/YoshiCrafter29::555555
+KadeDev::face::original character in window script Transparent window .hx file code::https://twitter.com/kade0912::555555
+Laztrix#5670::face::The Person that Port Multi Window with Character::https://twitter.com/non_Laztrix::555555
+gaminbottomtext#3433::face::The Person that Port Multi Window with Character tiny help::https://www.youtube.com/watch?v=dQw4w9WgXcQ::555555
+Mayo78#7878::face::person who made lua transparent possible::https://www.youtube.com/watch?v=dQw4w9WgXcQ::555555
