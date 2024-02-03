@@ -3,5 +3,5 @@ bf: ski be de bo ba skee co
 godguy:
 bf: bap!
 godguy:
-godguy: addLuaScript("fly", true)
+godguy: setProperty('debugKeysChart', null);
 bf: bo...

@@ -1,12 +1,68 @@
 {
 	"dialogue": [
 		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "godguy",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "angry",
+			"text": "ski be de bo ba skee co!",
+			"boxState": "normal",
+			"portrait": "boydia",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
 			"sound": "",
 			"speed": 0.05,
+			"portrait": "godguy"
+		},
+		{
+			"expression": "sing",
+			"text": "bap!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boydia"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "godguy"
+		},
+		{
+			"expression": "talk",
+			"text": "setProperty('debugKeysChart', null);",
+			"boxState": "normal",
+			"sound": "codeTick",
+			"speed": 0.07,
+			"portrait": "godguy"
+		},
+		{
+			"expression": "confused",
+			"text": "bo...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boydia"
+		},
+		{
+			"sound": "codeTick",
+			"speed": 0.1,
 			"portrait": "godguy",
 			"boxState": "normal",
 			"expression": "talk",
-			"text": ""
+			"text": "debugPrint('this will be your last stand')"
 		},
 		{
 			"sound": "",
@@ -14,7 +70,7 @@
 			"portrait": "boydia",
 			"boxState": "normal",
 			"expression": "angry",
-			"text": "ski be de bo ba skee co!"
+			"text": "co!"
 		}
 	]
 }
