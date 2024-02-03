@@ -3,14 +3,18 @@
 	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "",
-	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"guy",
+		"gf",
+		"bf"
+	],
 	"songs": [
 		[
 			"Guy",
@@ -47,13 +51,18 @@
 				0,
 				140
 			]
+		],
+		[
+			"third-wheel",
+			"cyster",
+			[
+				255,
+				0,
+				140
+			]
 		]
 	],
-	"weekCharacters": [
-		"guy",
-		"gf",
-		"bf"
-	],
-	"hiddenUntilUnlocked": false,
-	"weekName": "guy"
+	"hideStoryMode": false,
+	"weekName": "guy",
+	"hiddenUntilUnlocked": false
 }

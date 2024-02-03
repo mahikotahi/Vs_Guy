@@ -16,7 +16,7 @@ function onCreate()
 
     if songName == 'Guy' or songName == 'Waste' or songName == 'God Guy' or songName == 'Lone' or songName == 'Huy' then
         credits = "portilizen"
-    elseif songName == 'Guy-wade' or songName == 'Waste-wade' or songName == 'God Guy-wade' then
+    elseif songName == 'Guy-wade' or songName == 'Waste-wade' or songName == 'God Guy-wade' or 'third-wheel' then
         credits = "wade/sketch" 
     elseif songName == 'My-Life' then
         credits = "xdelirium" 
@@ -29,7 +29,11 @@ function onCreate()
     --luaDebugMode = true
     --debugPrint(songName)
 
-    makeLuaText("blacktext", songName .. '\ncomposed by ' .. credits, 0, -300, y)
+    if songName == 'third-wheel' then
+        makeLuaText("blacktext", songName .. '\ncovered by ' .. credits, 0, -300, y)
+    else
+        makeLuaText("blacktext", songName .. '\ncomposed by ' .. credits, 0, -300, y)
+    end
     setTextAlignment("blacktext", 'left')
     addLuaSprite("blackbar", true)
     addLuaText('blacktext')

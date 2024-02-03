@@ -79,9 +79,10 @@ V4.0 - 4/4/2024
 - Removed Secret Song Lone
 - Fixed Composer Credit Script for Vanilla Songs
 - Fully Implemented Serious Dialogue for God Guy
-- Removed the ability to go into the chart editor for the songs: God Guy, God Guy-wade, and Cyster
+- Removed the ability to go into the chart editor for the songs: God Guy, God Guy-wade, and Cyster and more
 - Fixed TEAM DISC HUD Appearance order
 - Fixed Week order
 - Added new freeplay song; Huy (ourple guy???)
 - Added new animated cutscene for Huy
 - Removed Secret Song: Lone
+- Added new Mainline Song; Third Wheel (third party cover)

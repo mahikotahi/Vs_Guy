@@ -42,7 +42,7 @@
 		},
 		{
 			"expression": "talk",
-			"text": "setProperty('debugKeysChart', null);",
+			"text": "setProperty('debugKeysChart', nil);",
 			"boxState": "normal",
 			"sound": "codeTick",
 			"speed": 0.07,
