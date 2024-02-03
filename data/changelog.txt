@@ -81,3 +81,5 @@ V4.0 - 4/4/2024
 - Fully Implemented Serious Dialogue for God Guy
 - Removed the ability to go into the chart editor for the songs: God Guy, God Guy-wade, and Cyster
 - Fixed TEAM DISC HUD Appearance order
+- Fixed Week order
+- Added new freeplay song; Huy (ourple guy???)

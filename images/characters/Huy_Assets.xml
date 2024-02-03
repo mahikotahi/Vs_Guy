@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Huy_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Huy Down0000" x="0" y="0" width="497" height="528"/>
+	<SubTexture name="Huy Down0001" x="0" y="0" width="497" height="528"/>
+	<SubTexture name="Huy Down0002" x="517" y="0" width="497" height="474" frameX="0" frameY="-26" frameWidth="497" frameHeight="528"/>
+	<SubTexture name="Huy Down0003" x="517" y="0" width="497" height="474" frameX="0" frameY="-26" frameWidth="497" frameHeight="528"/>
+	<SubTexture name="Huy Down0004" x="517" y="0" width="497" height="474" frameX="0" frameY="-26" frameWidth="497" frameHeight="528"/>
+	<SubTexture name="Huy Down0005" x="517" y="0" width="497" height="474" frameX="0" frameY="-26" frameWidth="497" frameHeight="528"/>
+	<SubTexture name="Huy Down0006" x="517" y="0" width="497" height="474" frameX="0" frameY="-26" frameWidth="497" frameHeight="528"/>
+	<SubTexture name="Huy Down0007" x="517" y="0" width="497" height="474" frameX="0" frameY="-26" frameWidth="497" frameHeight="528"/>
+	<SubTexture name="Huy Down0008" x="517" y="0" width="497" height="474" frameX="0" frameY="-26" frameWidth="497" frameHeight="528"/>
+	<SubTexture name="Huy Down0009" x="517" y="0" width="497" height="474" frameX="0" frameY="-26" frameWidth="497" frameHeight="528"/>
+	<SubTexture name="Huy Idle0000" x="1034" y="0" width="393" height="446" frameX="0" frameY="-92" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Idle0001" x="1034" y="0" width="393" height="446" frameX="0" frameY="-92" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Idle0002" x="1034" y="0" width="393" height="446" frameX="0" frameY="-92" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Idle0003" x="1447" y="0" width="365" height="472" frameX="-16" frameY="-65" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Idle0004" x="1447" y="0" width="365" height="472" frameX="-16" frameY="-65" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Idle0005" x="0" y="548" width="283" height="534" frameX="-62" frameY="0" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Idle0006" x="0" y="548" width="283" height="534" frameX="-62" frameY="0" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Idle0007" x="0" y="548" width="283" height="534" frameX="-62" frameY="0" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Idle0008" x="0" y="548" width="283" height="534" frameX="-62" frameY="0" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Idle0009" x="0" y="548" width="283" height="534" frameX="-62" frameY="0" frameWidth="393" frameHeight="538"/>
+	<SubTexture name="Huy Left0000" x="303" y="548" width="465" height="460" frameX="-16" frameY="0" frameWidth="512" frameHeight="460"/>
+	<SubTexture name="Huy Left0001" x="303" y="548" width="465" height="460" frameX="-16" frameY="0" frameWidth="512" frameHeight="460"/>
+	<SubTexture name="Huy Left0002" x="788" y="548" width="512" height="460"/>
+	<SubTexture name="Huy Left0003" x="788" y="548" width="512" height="460"/>
+	<SubTexture name="Huy Left0004" x="788" y="548" width="512" height="460"/>
+	<SubTexture name="Huy Left0005" x="788" y="548" width="512" height="460"/>
+	<SubTexture name="Huy Left0006" x="788" y="548" width="512" height="460"/>
+	<SubTexture name="Huy Left0007" x="788" y="548" width="512" height="460"/>
+	<SubTexture name="Huy Left0008" x="788" y="548" width="512" height="460"/>
+	<SubTexture name="Huy Left0009" x="788" y="548" width="512" height="460"/>
+	<SubTexture name="Huy Right0000" x="1320" y="548" width="467" height="515" frameX="-94" frameY="0" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Right0001" x="1320" y="548" width="467" height="515" frameX="-94" frameY="0" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Right0002" x="0" y="1102" width="593" height="423" frameX="0" frameY="-29" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Right0003" x="0" y="1102" width="593" height="423" frameX="0" frameY="-29" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Right0004" x="0" y="1102" width="593" height="423" frameX="0" frameY="-29" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Right0005" x="0" y="1102" width="593" height="423" frameX="0" frameY="-29" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Right0006" x="0" y="1102" width="593" height="423" frameX="0" frameY="-29" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Right0007" x="0" y="1102" width="593" height="423" frameX="0" frameY="-29" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Right0008" x="0" y="1102" width="593" height="423" frameX="0" frameY="-29" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Right0009" x="0" y="1102" width="593" height="423" frameX="0" frameY="-29" frameWidth="593" frameHeight="515"/>
+	<SubTexture name="Huy Up0000" x="613" y="1102" width="331" height="608"/>
+	<SubTexture name="Huy Up0001" x="613" y="1102" width="331" height="608"/>
+	<SubTexture name="Huy Up0002" x="964" y="1102" width="331" height="576" frameX="0" frameY="-1" frameWidth="331" frameHeight="608"/>
+	<SubTexture name="Huy Up0003" x="964" y="1102" width="331" height="576" frameX="0" frameY="-1" frameWidth="331" frameHeight="608"/>
+	<SubTexture name="Huy Up0004" x="964" y="1102" width="331" height="576" frameX="0" frameY="-1" frameWidth="331" frameHeight="608"/>
+	<SubTexture name="Huy Up0005" x="964" y="1102" width="331" height="576" frameX="0" frameY="-1" frameWidth="331" frameHeight="608"/>
+	<SubTexture name="Huy Up0006" x="964" y="1102" width="331" height="576" frameX="0" frameY="-1" frameWidth="331" frameHeight="608"/>
+	<SubTexture name="Huy Up0007" x="964" y="1102" width="331" height="576" frameX="0" frameY="-1" frameWidth="331" frameHeight="608"/>
+	<SubTexture name="Huy Up0008" x="964" y="1102" width="331" height="576" frameX="0" frameY="-1" frameWidth="331" frameHeight="608"/>
+	<SubTexture name="Huy Up0009" x="964" y="1102" width="331" height="576" frameX="0" frameY="-1" frameWidth="331" frameHeight="608"/>
+</TextureAtlas>

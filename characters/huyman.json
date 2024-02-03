@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Huy Idle"
+		},
+		{
+			"offsets": [
+				140,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Huy Left"
+		},
+		{
+			"offsets": [
+				0,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Huy Down"
+		},
+		{
+			"offsets": [
+				-70,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Huy Up"
+		},
+		{
+			"offsets": [
+				-40,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Huy Right"
+		}
+	],
+	"vocals_file": "huyman",
+	"no_antialiasing": true,
+	"image": "characters/Huy_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "huyman",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		255,
+		255
+	],
+	"camera_position": [
+		-80,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

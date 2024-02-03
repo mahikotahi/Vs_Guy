@@ -14,9 +14,10 @@ function onCreate()
     setObjectCamera("blackbar", 'camHUD')
     scaleLuaSprite("blackbar", 0.4, 0.08)
 
-    if songName == 'Guy' or songName == 'Waste' or songName == 'God Guy' or songName == 'Lone'then
+    if songName == 'Guy' or songName == 'Waste' or songName == 'God Guy' or songName == 'Lone' or songName == 'Huy' then
         credits = "portilizen"
-    elseif songName == 'Guy-wade' or songName == 'Waste-wade' or songName == 'God Guy-wade' then        credits = "wade/sketch" 
+    elseif songName == 'Guy-wade' or songName == 'Waste-wade' or songName == 'God Guy-wade' then
+        credits = "wade/sketch" 
     elseif songName == 'My-Life' then
         credits = "xdelirium" 
     elseif songName == 'Cyster' then
