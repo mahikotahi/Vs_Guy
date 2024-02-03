@@ -52,7 +52,7 @@ V2.3 - 1/28/2024
 - Removed "cutsceneStuff" folder from the mod files
 in total: 383,531 KB removed
 
-V3.0 - Q2 2024
+V3.0 - 2/2/2024
 - Updated Icons and Bar color for Guy, Red Guy, and God Guy
 - Redid Credits
 - Redid Freeplay Background Colors for week G and wade-mix
