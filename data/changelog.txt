@@ -77,3 +77,7 @@ V4.0 - 4/4/2024
 - Changed BF Version in God Guy
 - Changed BF Version in God Guy-wade
 - Removed Secret Song Lone
+- Fixed Composer Credit Script for Vanilla Songs
+- Fully Implemented Serious Dialogue for God Guy
+- Removed the ability to go into the chart editor for the songs: God Guy, God Guy-wade, and Cyster
+- Fixed TEAM DISC HUD Appearance order

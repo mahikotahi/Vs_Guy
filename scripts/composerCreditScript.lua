@@ -21,6 +21,8 @@ function onCreate()
         credits = "xdelirium" 
     elseif songName == 'Cyster' then
         credits = "thatOneGambei" 
+    else
+        credits = 'kawaiSprite'
     end
 
     --luaDebugMode = true
