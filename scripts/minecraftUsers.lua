@@ -89,7 +89,7 @@ function onUpdate(elapsed)
     if songName == 'Cyster' then
         -- makeLuaText("ggtext", "IM A GOD YOU CANT STOP ME", 0, defaultPlayerStrumX ..getRandomInt(0, 3), 180)
         setTextSize("ggtext", getRandomInt(16, 32))
-        setTextWidth('ggtext', getRandomInt(0, 258))
+        setTextWidth('ggtext', getRandomInt(64, 64))
         --setProperty("ggtext.y", getRandomInt(30, 160))
     end
 end

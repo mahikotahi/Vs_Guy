@@ -3,14 +3,6 @@
 		{
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "confused",
-			"text": "bro you just ate the nether and you ate the red square dude"
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
 			"portrait": "godguy",
 			"boxState": "normal",
 			"expression": "talk",
@@ -19,34 +11,10 @@
 		{
 			"sound": "",
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "boydia",
 			"boxState": "normal",
-			"expression": "talk",
-			"text": "oh your one of those silent opponents,"
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "pissed",
-			"text": "well now i hate you for no reason"
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": "anyway its rap time"
-		},
-		{
-			"sound": "",
-			"speed": 0.05,
-			"portrait": "godguy",
-			"boxState": "normal",
-			"expression": "talk",
-			"text": ""
+			"expression": "angry",
+			"text": "ski be de bo ba skee co!"
 		}
 	]
 }
