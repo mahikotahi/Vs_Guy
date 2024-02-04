@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriendRankA.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOYFRIEND A RANK0000" x="0" y="0" width="406" height="392" frameX="-51" frameY="-271" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0001" x="0" y="0" width="406" height="392" frameX="-51" frameY="-271" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0002" x="446" y="0" width="408" height="395" frameX="-50" frameY="-269" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0003" x="446" y="0" width="408" height="395" frameX="-50" frameY="-269" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0004" x="894" y="0" width="405" height="400" frameX="-53" frameY="-264" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0005" x="894" y="0" width="405" height="400" frameX="-53" frameY="-264" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0006" x="1339" y="0" width="410" height="412" frameX="-51" frameY="-252" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0007" x="1339" y="0" width="410" height="412" frameX="-51" frameY="-252" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0008" x="1789" y="0" width="408" height="414" frameX="-52" frameY="-250" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0009" x="1789" y="0" width="408" height="414" frameX="-52" frameY="-250" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0010" x="1789" y="0" width="408" height="414" frameX="-52" frameY="-250" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0011" x="1789" y="0" width="408" height="414" frameX="-52" frameY="-250" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0012" x="1789" y="0" width="408" height="414" frameX="-52" frameY="-250" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0013" x="2237" y="0" width="408" height="414" frameX="-52" frameY="-250" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0014" x="2685" y="0" width="414" height="392" frameX="-43" frameY="-271" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0015" x="2685" y="0" width="414" height="392" frameX="-43" frameY="-271" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0016" x="2685" y="0" width="414" height="392" frameX="-43" frameY="-271" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0017" x="2685" y="0" width="414" height="392" frameX="-43" frameY="-271" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0018" x="3139" y="0" width="414" height="398" frameX="-44" frameY="-265" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0019" x="3593" y="0" width="348" height="540" frameX="-82" frameY="-41" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0020" x="3593" y="0" width="348" height="540" frameX="-82" frameY="-41" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0021" x="0" y="580" width="357" height="541" frameX="-72" frameY="-15" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0022" x="0" y="580" width="357" height="541" frameX="-72" frameY="-15" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0023" x="397" y="580" width="373" height="525" frameX="-92" frameY="0" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0024" x="397" y="580" width="373" height="525" frameX="-92" frameY="0" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0025" x="810" y="580" width="347" height="541" frameX="-102" frameY="-61" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0026" x="810" y="580" width="347" height="541" frameX="-102" frameY="-61" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0027" x="1197" y="580" width="457" height="337" frameX="0" frameY="-326" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0028" x="1197" y="580" width="457" height="337" frameX="0" frameY="-326" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0029" x="1694" y="580" width="403" height="418" frameX="-41" frameY="-245" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0030" x="1694" y="580" width="403" height="418" frameX="-41" frameY="-245" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0031" x="2137" y="580" width="413" height="392" frameX="-48" frameY="-271" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0032" x="2137" y="580" width="413" height="392" frameX="-48" frameY="-271" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0033" x="2590" y="580" width="394" height="417" frameX="-44" frameY="-246" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0034" x="2590" y="580" width="394" height="417" frameX="-44" frameY="-246" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0035" x="3024" y="580" width="413" height="411" frameX="-44" frameY="-254" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0036" x="3024" y="580" width="413" height="411" frameX="-44" frameY="-254" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0037" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0038" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0039" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0040" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0041" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0042" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0043" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0044" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0045" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0046" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0047" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0048" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0049" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0050" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0051" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0052" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+	<SubTexture name="BOYFRIEND A RANK0053" x="3477" y="580" width="415" height="412" frameX="-44" frameY="-253" frameWidth="465" frameHeight="665"/>
+</TextureAtlas>

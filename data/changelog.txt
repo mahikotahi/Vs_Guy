@@ -97,3 +97,5 @@ V3.5 - 2/4/2024
 - Added Distraction Bitch to god guy (scrapped mechanic that can be implemented again)
 - Added 16 Individual Pause Menu Artworks (only 1 animated one)
 - Fixed Waste-wade chart with the non-existant Beer Drinking animations
+
+V4.0 - 4/4/2024

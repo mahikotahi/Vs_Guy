@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ranks.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RANK A PLAY0000" x="0" y="0" width="1003" height="1193"/>
+	<SubTexture name="RANK A PLAY0001" x="1013" y="0" width="941" height="1121" frameX="-31" frameY="-36" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0002" x="1964" y="0" width="659" height="784" frameX="-172" frameY="-204" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0003" x="2633" y="0" width="495" height="590" frameX="-254" frameY="-301" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0004" x="3138" y="0" width="475" height="565" frameX="-264" frameY="-314" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0005" x="3623" y="0" width="472" height="562" frameX="-265" frameY="-315" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0006" x="4105" y="0" width="475" height="565" frameX="-264" frameY="-314" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0007" x="4590" y="0" width="479" height="571" frameX="-262" frameY="-311" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0008" x="5079" y="0" width="485" height="577" frameX="-259" frameY="-308" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0009" x="5574" y="0" width="489" height="581" frameX="-257" frameY="-306" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0010" x="5574" y="0" width="489" height="581" frameX="-257" frameY="-306" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK A PLAY0011" x="6073" y="0" width="474" height="564" frameX="-264" frameY="-314" frameWidth="1003" frameHeight="1193"/>
+	<SubTexture name="RANK B PLAY0000" x="6557" y="0" width="812" height="1461"/>
+	<SubTexture name="RANK B PLAY0001" x="7379" y="0" width="762" height="1372" frameX="-31" frameY="-36" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0002" x="0" y="1471" width="534" height="960" frameX="-172" frameY="-205" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0003" x="544" y="1471" width="401" height="723" frameX="-254" frameY="-301" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0004" x="955" y="1471" width="385" height="692" frameX="-264" frameY="-314" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0005" x="1350" y="1471" width="383" height="688" frameX="-265" frameY="-315" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0006" x="1743" y="1471" width="385" height="692" frameX="-264" frameY="-314" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0007" x="2138" y="1471" width="388" height="699" frameX="-262" frameY="-311" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0008" x="2536" y="1471" width="393" height="707" frameX="-259" frameY="-308" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0009" x="2939" y="1471" width="396" height="712" frameX="-257" frameY="-306" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0010" x="2939" y="1471" width="396" height="712" frameX="-257" frameY="-306" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK B PLAY0011" x="3345" y="1471" width="384" height="691" frameX="-264" frameY="-314" frameWidth="812" frameHeight="1461"/>
+	<SubTexture name="RANK C PLAY0000" x="3739" y="1471" width="962" height="1379"/>
+	<SubTexture name="RANK C PLAY0001" x="4711" y="1471" width="903" height="1294" frameX="-42" frameY="-33" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0002" x="5624" y="1471" width="633" height="906" frameX="-234" frameY="-184" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0003" x="6267" y="1471" width="476" height="682" frameX="-345" frameY="-270" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0004" x="6753" y="1471" width="458" height="655" frameX="-358" frameY="-280" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0005" x="7221" y="1471" width="454" height="650" frameX="-361" frameY="-282" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0006" x="7685" y="1471" width="457" height="654" frameX="-359" frameY="-281" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0007" x="0" y="2860" width="462" height="661" frameX="-355" frameY="-278" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0008" x="472" y="2860" width="465" height="667" frameX="-353" frameY="-276" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0009" x="947" y="2860" width="469" height="672" frameX="-350" frameY="-274" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0010" x="947" y="2860" width="469" height="672" frameX="-350" frameY="-273" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK C PLAY0011" x="1426" y="2860" width="456" height="653" frameX="-359" frameY="-281" frameWidth="962" frameHeight="1379"/>
+	<SubTexture name="RANK D PLAY0000" x="1892" y="2860" width="1146" height="1325"/>
+	<SubTexture name="RANK D PLAY0001" x="3048" y="2860" width="1076" height="1245" frameX="-34" frameY="-32" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0002" x="4134" y="2860" width="752" height="871" frameX="-193" frameY="-179" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0003" x="4896" y="2860" width="567" height="656" frameX="-283" frameY="-264" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0004" x="5473" y="2860" width="545" height="630" frameX="-294" frameY="-274" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0005" x="6028" y="2860" width="540" height="625" frameX="-296" frameY="-276" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0006" x="6578" y="2860" width="543" height="629" frameX="-295" frameY="-274" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0007" x="7131" y="2860" width="549" height="635" frameX="-292" frameY="-272" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0008" x="0" y="4195" width="555" height="642" frameX="-289" frameY="-269" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0009" x="565" y="4195" width="559" height="647" frameX="-287" frameY="-267" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0010" x="565" y="4195" width="559" height="647" frameX="-287" frameY="-267" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK D PLAY0011" x="1134" y="4195" width="543" height="627" frameX="-295" frameY="-275" frameWidth="1146" frameHeight="1325"/>
+	<SubTexture name="RANK F PLAY0000" x="1687" y="4195" width="1354" height="1599"/>
+	<SubTexture name="RANK F PLAY0001" x="3051" y="4195" width="1271" height="1502" frameX="-40" frameY="-23" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0002" x="4332" y="4195" width="889" height="1052" frameX="-222" frameY="-131" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0003" x="5231" y="4195" width="671" height="792" frameX="-325" frameY="-194" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0004" x="5912" y="4195" width="642" height="759" frameX="-339" frameY="-202" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0005" x="6564" y="4195" width="638" height="753" frameX="-341" frameY="-203" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0006" x="7212" y="4195" width="642" height="758" frameX="-339" frameY="-202" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0007" x="0" y="5804" width="649" height="766" frameX="-336" frameY="-200" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0008" x="659" y="5804" width="655" height="774" frameX="-333" frameY="-198" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0009" x="1324" y="5804" width="661" height="780" frameX="-330" frameY="-197" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0010" x="1324" y="5804" width="661" height="780" frameX="-330" frameY="-197" frameWidth="1354" frameHeight="1599"/>
+	<SubTexture name="RANK F PLAY0011" x="1995" y="5804" width="641" height="757" frameX="-339" frameY="-202" frameWidth="1354" frameHeight="1599"/>
+</TextureAtlas>

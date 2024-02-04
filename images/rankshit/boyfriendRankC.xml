@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriendRankC.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOYFRIEND C RANK0000" x="0" y="0" width="406" height="392" frameX="-2" frameY="-28" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0001" x="0" y="0" width="406" height="392" frameX="-2" frameY="-28" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0002" x="446" y="0" width="408" height="395" frameX="-1" frameY="-26" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0003" x="446" y="0" width="408" height="395" frameX="-1" frameY="-26" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0004" x="894" y="0" width="405" height="400" frameX="-4" frameY="-21" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0005" x="894" y="0" width="405" height="400" frameX="-4" frameY="-21" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0006" x="1339" y="0" width="410" height="412" frameX="-2" frameY="-9" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0007" x="1339" y="0" width="410" height="412" frameX="-2" frameY="-9" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0008" x="1789" y="0" width="408" height="414" frameX="-3" frameY="-7" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0009" x="1789" y="0" width="408" height="414" frameX="-3" frameY="-7" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0010" x="1789" y="0" width="408" height="414" frameX="-3" frameY="-7" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0011" x="1789" y="0" width="408" height="414" frameX="-3" frameY="-7" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0012" x="1789" y="0" width="408" height="414" frameX="-3" frameY="-7" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0013" x="1789" y="0" width="408" height="414" frameX="-3" frameY="-7" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0014" x="2237" y="0" width="406" height="393" frameX="-2" frameY="-29" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0015" x="2237" y="0" width="406" height="393" frameX="-2" frameY="-29" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0016" x="2683" y="0" width="406" height="413" frameX="0" frameY="-8" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0017" x="2683" y="0" width="406" height="413" frameX="0" frameY="-8" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0018" x="3129" y="0" width="433" height="422" frameX="-13" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0019" x="3129" y="0" width="433" height="422" frameX="-13" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0020" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0021" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0022" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0023" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0024" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0025" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0026" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0027" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0028" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0029" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0030" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+	<SubTexture name="BOYFRIEND C RANK0031" x="3602" y="0" width="433" height="422" frameX="-9" frameY="0" frameWidth="446" frameHeight="422"/>
+</TextureAtlas>
