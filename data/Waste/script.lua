@@ -23,7 +23,7 @@ end
 function onEndSong()
     if not allowCountdown and isStoryMode then
 		  if playVideo then
-            playVideo = !playVideo;
+            playVideo = not playVideo;
 			    startVideo('WasteNEWPostCutscene');
 			    return Function_Stop; --Prevents the song from starting naturally
 		  end

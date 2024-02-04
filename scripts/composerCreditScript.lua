@@ -22,6 +22,7 @@ function onCreate()
     if songName == 'third-wheel' then credits = 'wade/sketch' end
     if stringEndsWith(songName, "-wade") then credits = 'wade/sketch' end 
     if songName == 'My-Life' then credits = 'xdelirium' end
+    if songName == 'Discorm' then credits = 'xdelirium' end
     if songName == 'Cyster' then credits = 'thatOneGambei' end
 
     --luaDebugMode = true

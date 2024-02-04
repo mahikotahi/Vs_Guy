@@ -8,6 +8,10 @@ rng = getRandomFloat(1, 10)
 animatedart = false
 maxalphatweenlen = 2
 displayedArt = 'boy'
+xdOffset = 0
+pOffset = 0
+gOffset = 0
+zlOffset = 0
 
 function spritesInit()
     black()
@@ -97,13 +101,21 @@ function onUpdate(elapsed)
     if songName == 'My-Life' then art = 'goy' end
     if songName == 'My-Life'and myMisses >= 5 then art = 'goymiss' end
     if songName == 'My-Life'and myCombo >= 10 then art = 'goycombo' end
+    
+    xdOffset = 0
+    pOffset = 0
+    gOffset = 0
+    zlOffset = 0
 
     rng = getRandomFloat(1, 100000)
     --art = 'xdelirium' -- rare things require testing
+    if songName == 'Guy' or songName == 'God Guy' or songName == 'Waste' or songName == 'Lone' or songName == 'Huy'then pOffset = 6 end
     if rng == 1 then art = 'port' end
-    if rng == 2 then art = 'gambei' end
+    if songName == 'cyster' then gOffset = 6 end
+    if rng == 2 + gOffset then art = 'gambei' end
     if rng == 4 then art = 'zlambei' end
-    if rng == 6 then art = 'xdelirium' end
+    if songName == 'My-Life' or songName == 'Discorm' then xdOffset = 6 end
+    if rng == 6 + xdOffset then art = 'xdelirium' end
 
     if botPlay then art = 'botplay' end
 
