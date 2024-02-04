@@ -96,5 +96,4 @@ V3.5 - 3/4/2024
 - Added Randomization to the Position of the GOD TEXT in Cyster
 - Added Distraction Bitch to god guy (scrapped mechanic that can be implemented again)
 - Added 16 Individual Pause Menu Artworks (only 1 animated one)
-- Added new Song; discorm
 - Fixed Waste-wade chart with the non-existant Beer Drinking animations
