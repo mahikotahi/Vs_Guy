@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-410
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Portilizen Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Portilizen Left"
+		},
+		{
+			"offsets": [
+				-54,
+				-400
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Portilizen Down"
+		},
+		{
+			"offsets": [
+				-50,
+				-380
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Portilizen Up"
+		},
+		{
+			"offsets": [
+				-83,
+				-430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Portilizen Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-450
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Portilizen Miss Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-400
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Portilizen Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-380
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Portilizen Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-430
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Portilizen Miss Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Portilizen",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "port",
+	"flip_x": false,
+	"healthbar_colors": [
+		153,
+		0,
+		255
+	],
+	"camera_position": [
+		110,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}
