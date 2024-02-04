@@ -3,7 +3,7 @@ Portilizen::port::Director, Charting, 3D sprites, 2D sprites, lua programming, S
 Wade::wademanW::Cover Creator, Song Composition, 2D Icon::https://youtube.com/@SimplifiedSketch?si=G80M9HYywTOAbQUH::00FFFF
 Djotta Flow::djotta::2D sprites, Animations::https://www.youtube.com/channel/UCDWsyQ2DbgRrH-4knWd0NkQ::0000FF
 gambei::gambei::Charting, Song Composition::https://twitter.com/thatonegambei::00FF00
-xdelirium::xdel::2D icon, Song Composition::https://www.youtube.com/channel/UCf1XaSd6QGraFHwFccxmy8w::FFFFFF
+xdelirium::xdel::2D icon, Song Composition, Annoyance::https://www.youtube.com/channel/UCf1XaSd6QGraFHwFccxmy8w::FFFFFF
 OgFoxer::ogFoxm::3D sprites, 2D icon, Song Composition::https://www.youtube.com/channel/UCFl9CtaDUVppXcJhkLmDsYw::FFFF00
 
 Vs Guy Side Credits
