@@ -86,3 +86,6 @@ V4.0 - 4/4/2024
 - Added new animated cutscene for Huy
 - Removed Secret Song: Lone
 - Added new Mainline Song; Third Wheel (third party cover)
+- Added new Animated Post Waste Cutscene
+- Added new Animated Post Cyster Cutscene
+- Added new Animated Post Third Wheel Cutscene
