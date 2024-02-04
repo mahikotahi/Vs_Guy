@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-160,
 				-350
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "MLP School Idle"
+			"fps": 24,
+			"name": "MLP School Idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-130,
 				-350
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "MLP School Left"
+			"fps": 24,
+			"name": "MLP School Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-164,
 				-349
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "MLP School Down"
+			"fps": 24,
+			"name": "MLP School Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-94,
 				-350
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "MLP School Up"
+			"fps": 24,
+			"name": "MLP School Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-152,
 				-352
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "MLP School Right"
+			"fps": 24,
+			"name": "MLP School Right",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
@@ -71,7 +71,7 @@
 		161
 	],
 	"camera_position": [
-		0,
+		110,
 		200
 	],
 	"sing_duration": 4,
