@@ -68,7 +68,7 @@ V3.0 - 2/2/2024
 - Added Public Github (don't leak any shit unless your a fucking bitch)
 - Added Cyster; New Mainline Song
 
-V3.5 - 3/4/2024
+V3.5 - 2/4/2024
 - Updated Pack Name
 - Updated Custom DiscordRPC
 - Updated Pack Icon
