@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cyster_shake.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cyster Shake0000" x="0" y="0" width="622" height="637" frameX="-496" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0001" x="662" y="0" width="622" height="637" frameX="-521" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0002" x="1324" y="0" width="622" height="637" frameX="-512" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0003" x="1986" y="0" width="622" height="637" frameX="-521" frameY="-196" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0004" x="2648" y="0" width="622" height="637" frameX="-496" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0005" x="3310" y="0" width="1531" height="637" frameX="-108" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0006" x="4881" y="0" width="622" height="637" frameX="-512" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0007" x="5543" y="0" width="622" height="637" frameX="-521" frameY="-196" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0008" x="6205" y="0" width="622" height="637" frameX="-496" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0009" x="6867" y="0" width="622" height="637" frameX="-521" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0010" x="7529" y="0" width="622" height="637" frameX="-512" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0011" x="0" y="677" width="622" height="637" frameX="-521" frameY="-196" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0012" x="662" y="677" width="1531" height="1036" frameX="-83" frameY="0" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0013" x="2233" y="677" width="622" height="637" frameX="-521" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0014" x="2895" y="677" width="1500" height="637" frameX="0" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0015" x="4435" y="677" width="622" height="637" frameX="-521" frameY="-196" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0016" x="5097" y="677" width="622" height="637" frameX="-496" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0017" x="5759" y="677" width="622" height="637" frameX="-521" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0018" x="6421" y="677" width="622" height="637" frameX="-512" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0019" x="7083" y="677" width="622" height="637" frameX="-521" frameY="-196" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0020" x="0" y="1753" width="622" height="637" frameX="-496" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0021" x="662" y="1753" width="622" height="637" frameX="-521" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0022" x="1324" y="1753" width="622" height="637" frameX="-512" frameY="-199" frameWidth="1639" frameHeight="1036"/>
+	<SubTexture name="Cyster Shake0023" x="1986" y="1753" width="622" height="637" frameX="-521" frameY="-196" frameWidth="1639" frameHeight="1036"/>
+</TextureAtlas>

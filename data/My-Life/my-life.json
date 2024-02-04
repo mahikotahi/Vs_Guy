@@ -3191,7 +3191,7 @@
 		"disableNoteRGB": false,
 		"song": "My-Life",
 		"needsVoices": true,
-		"stage": "stage",
+		"stage": "box",
 		"arrowSkin": "",
 		"bpm": 180,
 		"speed": 2.1

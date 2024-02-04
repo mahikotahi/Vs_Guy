@@ -34,7 +34,7 @@ function onCreate()
         setTextString("bftext", "evan")
     end
 
-    makeLuaText("ggtext", "IM A GOD YOU CANT STOP ME", 0, 200, 30)
+    makeLuaText("ggtext", "IM A GOD YOU CANT STOP ME", 0, getRandomInt(0, 1280), 30)
     setScrollFactor("ggtext", 1.0, 1.0)
     makeLuaText("bf2text", "notBoyfriend", 0, 1000, 180)
     setScrollFactor("bf2text", 1.0, 1.0)
@@ -45,7 +45,6 @@ function onCreate()
         addLuaText("bftext")
         addLuaText("rgtext")
     elseif songName == 'Cyster' then
-        makeLuaText("ggtext", "IM A GOD YOU CANT STOP ME", 0, 100, 180)
         addLuaText('ggtext');
         addLuaText('b2ftext');
     end
@@ -91,5 +90,11 @@ function onUpdate(elapsed)
         setTextSize("ggtext", getRandomInt(16, 32))
         setTextWidth('ggtext', getRandomInt(64, 64))
         --setProperty("ggtext.y", getRandomInt(30, 160))
+    end
+end
+
+function onBeatHit()
+    if songName == 'Cyster' then
+        --doTweenX("ggtext", "ggtext.x", -, 0.0, "")
     end
 end

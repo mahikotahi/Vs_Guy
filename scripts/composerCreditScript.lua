@@ -1,7 +1,7 @@
 y = 200
 
 function onCreate()
-    local credits = ""
+    local credits = "unknown"
 
     makeAnimatedLuaSprite('disc', 'spinning_disc', -300, y - 30);
 	setScrollFactor('disc', 1, 1);
@@ -14,17 +14,15 @@ function onCreate()
     setObjectCamera("blackbar", 'camHUD')
     scaleLuaSprite("blackbar", 0.4, 0.08)
 
-    if songName == 'Guy' or songName == 'Waste' or songName == 'God Guy' or songName == 'Lone' or songName == 'Huy' then
-        credits = "portilizen"
-    elseif songName == 'Guy-wade' or songName == 'Waste-wade' or songName == 'God Guy-wade' or 'third-wheel' then
-        credits = "wade/sketch" 
-    elseif songName == 'My-Life' then
-        credits = "xdelirium" 
-    elseif songName == 'Cyster' then
-        credits = "thatOneGambei" 
-    else
-        credits = 'unknown'
-    end
+    if songName == 'Guy' then credits = 'portilizen' end
+    if songName == 'Waste' then credits = 'portilizen' end
+    if songName == 'God Guy' then credits = 'portilizen' end
+    if songName == 'Lone' then credits = 'portilizen' end
+    if songName == 'Huy' then credits = 'portilizen' end
+    if songName == 'third-wheel' then credits = 'wade/sketch' end
+    if stringEndsWith(songName, "-wade") then credits = 'wade/sketch' end 
+    if songName == 'My-Life' then credits = 'xdelirium' end
+    if songName == 'Cyster' then credits = 'thatOneGambei' end
 
     --luaDebugMode = true
     --debugPrint(songName)

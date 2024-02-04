@@ -68,7 +68,7 @@ V3.0 - 2/2/2024
 - Added Public Github (don't leak any shit unless your a fucking bitch)
 - Added Cyster; New Mainline Song
 
-V4.0 - 4/4/2024
+V3.5 - 3/4/2024
 - Updated Pack Name
 - Updated Custom DiscordRPC
 - Updated Pack Icon
@@ -89,3 +89,10 @@ V4.0 - 4/4/2024
 - Added new Animated Post Waste Cutscene
 - Added new Animated Post Cyster Cutscene
 - Added new Animated Post Third Wheel Cutscene
+- Updated My-Life to include a background
+- Added Pause Menu Art
+- Added Easy way to implement Pause Menu Art
+- Added Easy way to implement Pause Menu Animated Art
+- Added Randomization to the Position of the GOD TEXT in Cyster
+- Added Distraction Bitch to god guy (scrapped mechanic that can be implemented again)
+- Added 16 Individual Pause Menu Artworks (only 1 animated one)
