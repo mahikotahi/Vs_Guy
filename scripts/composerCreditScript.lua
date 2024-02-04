@@ -23,7 +23,7 @@ function onCreate()
     elseif songName == 'Cyster' then
         credits = "thatOneGambei" 
     else
-        credits = 'kawaiSprite'
+        credits = 'unknown'
     end
 
     --luaDebugMode = true
